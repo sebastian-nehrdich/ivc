@@ -1,0 +1,51 @@
+rava_roo-0 amam_fla-1 mana_fla-2 sakṣa_fla-3 sakṣa_fla-4 naram_fla-5 jaṭhala_fla-6 dhāra_fla-7 raha_fla-8 
+dāma_roo-0 mana_fla-1 kaṃsam_fla-2 naḥ_fla-3 randhana_fla-4 randh_fla-5 
+kaṃsam_kaṃsa_obj-3 ca_ca_cc-3 āsa_roo-0 nadan_adv-3 
+kam_roo-0 mā_mā_ akham_fla-1 kaṃsam_fla-2 dāta_fla-3 nadan_fla-4 nad_fla-5 
+dhakka_dhakka_fla-1 vaha_fla-2 māṃsaja_fla-3 māṃsaja_fla-4 āśa_fla-5 varam_fla-6 varam_fla-7 
+tat_roo-0 dadanam_fla-1 rava_fla-2 amam_fla-3 añjas_fla-4 saram_fla-5 sara_fla-6 
+śatadā_roo-0 śatadā_fla-1 rave_fla-2 maham_fla-3 mākham_fla-4 
+dāha_dāha_con-1 rava_roo-0 śam_dis-1 jāra_jāra_con-1 aṅki_aṅkin_con-1 dhara_dhara_con-1 
+rava_ru_roo-0 aha_adv-1 tman_sen-1 jarā_adv-1 varān_obj-1 vara_xco-1 
+vaja_vaja_roo-0 hānaḥ_han_con-1 ām_orp-1 aśva_aśva_con-1 modān_moda_con-1 
+dadā_dā_roo-0 tava_tvad_nmo-adv-2 vaśam_vaśa_obl-2 añja_añja_con-2 dahra_dahra_con-2 
+tana_adv-2 bhava_fla-3 vaha_fla-4 amam_fla-5 varam_fla-6 vara_fla-7 
+haṭa_haṭa_orp-3 mamada_mar-3 mākha_mākha_con-3 varam_vara_roo-0 
+damana_damana_fla-- sat_fla-- mama_fla-- mākham_fla-- 
+rasāla_roo-0 vāha_fla-1 tamasa_fla-2 haraṇa_fla-3 haraṇa_fla-4 
+sāta_obl-2 āvaha_con-2 ama_nsu-2 añjasam_adv-2 añjasam_adv-2 tara_tṛ_roo-0 
+śatāt_śata_obl- avamam_roo-0 sa_sa_con- mañjana_mañjana_orp 
+iddha_indh_con-1 acala_acl- vāha_vāha_con-1 nāma_nmo-con-1 naśam_obj-2 tara_tṛ_roo-0 
+ārava_roo-0 śāsam_obj-1 añja_añja_con-1 sabham_con-1 sabhā_con-1 
+ārava_āru_roo-0 mama_obl-2 añjas_añjas_adv-2 māna_māna_con-2 
+ā_ā_orp-2 dhanvacara_dhanvacara_orp-2 naśa_roo-0 ava_ava_orp-2 ānana_orp-2 
+matavacaḥ_roo-0 dāhana_dāhana_fla-1 tāmra_fla-2 tāmra_fla-3 
+dāva_dāva_roo-0 rava_roo-0 ama_con-1 dāna_dāna_con-1 raṃ_raṃ_con-1 
+naśvara_roo-0 naśvara_con-1 nava_con-1 mākham_con-1 
+dhakka_dhakka_con-3 va_va_con-3 añja_añja_con-3 varam_vara_obj-3 āca_āc_roos3 
+śata_śat_roo-0 dhāra_dhārā_con-1 vaha_con-1 mayam_maya_con-1 
+hata_han_fla-2 madana_fla-3 madana_fla-4 añjan_fla-5 āya_fla-6 
+anā_adv-3 ānarṣa_roo-0 sātā_con-3 daḥ_dā_con-3 dā_con-3 
+dasma_dasma_obl-2 vaha_vah_roo-0 añjas_adv-2 bhāṃ_bhā_con-2 
+asama_roo-0 ātmatas_ātmatas_conc ātmatas_conc 
+samava_adv-2 vama_vam_roo-0 tamaḥ_tamas_obl-2 maram_mara_con-2 maram_mara_con-2 
+mama_mad_nmo rasada_rasada_roo sa_sa_com chadāni_chada_orp arka_arka_con-m āra_āra_con- 
+yama_roo-0 han_fla-1 aṃśam_fla-2 śama_fla-3 man_fla-4 
+atha_roo-0 acala_con-1 tva_tva_con-1 māna_māna_con-1 
+rava_ru_roo-0 amam_fla-1 maha_fla-2 mākhaṃ_fla-3 mākha_fla-4 
+anā_anā_adv-1 ānarṣa_roo-0 sātān_obj-1 san_obj-1 
+rava_rava_roo-0 sahat_fla-1 mama_fla-2 mad_fla-3 varam_fla-4 
+dama_dama_roo-0 vahaḥ_vaha_con-1 ā_orp-1 matha_matha_con-1 mahān_mar-1 
+rasa_rasa_con-1 tasa_tasa_fla-2 naman_fla-3 sam_fla-4 dhāra_fla-5 dhārā_fla-6 
+aham_mad_fla-1 saham_fla-2 mokṣam_fla-3 mokṣa_fla-4 
+namīm_roo-0 jaṭhala_jaṭhala_obl-1 śāyam_con-1 śāya_con-1 
+aha_adv-1 acala_adv-1 vaśam_roo-0 maṣam_con-1 
+āma_roo-0 vā_cc-1 ahas_ahas_obl-1 manāk_adv-1 manāk_con-1 
+ṛta_ṛta_con-1 ratha_ratha_con-1 rāta_roo-0 manāk_adv-1 
+bhasa_bhasa_con-1 rava_con-1 amaḥ_nsu-1 āmantra_āmantra_roo-0 
+dada_dā_roo-0 anudam_obj-1 jana_jana_con-1 nala_nala_con-1 nala_con-1 
+śama_roo-0 śama_con-1 śara_con-1 aṅga_aṅga_con-1 tamra_con-1 tamra_con-1 
+ara_adv-31 varṣā_con-31 rarāṇān_rā_obj-31 rarāṇān_roo-0 
+nanama_roo-0 śastam_obj-1 jaṣam_obj-1 jaṣa_con-1 
+babada_roo-0 aśva_aśva_con-1 vala_vala_con-1 ram_con-1 
+rara_roo-0 ra_con-1 rayam_con-1 rayam_con-1 
