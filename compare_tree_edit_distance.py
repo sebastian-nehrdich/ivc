@@ -317,8 +317,8 @@ def main():
         plt.ylim(0, 100)
         plt.xticks(rotation=45, ha='right')
         plt.tight_layout()
-        plt.show()
-
+        plt.savefig('result.png')
+    
     # Call the plot_summary function with the computed values and filenames
     plot_summary(tb1_closer, tb2_closer, tb3_closer, tb4_closer, tb5_closer, tb6_closer, equal, len(results),
                  treebank1_file, treebank2_file, treebank3_file, treebank4_file, treebank5_file, treebank6_file)
