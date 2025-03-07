@@ -1,0 +1,45 @@
+yajñena_obl-5 vai_dis-5 prajāpatiḥ_nsu-5 prajā_obj-5 asṛjata_roo-0 
+tā_obj-3 upayaḍbhir_obl-3 evāsṛjata_roo-0 eva_dis-2 asṛjata_sen-3 
+yad_det-2 upayaja_obj-3 upayajati_acl-6 prajā_obj-8 eva_dis-4 tad_adv-8 yajamānaḥ_nsu-8 sṛjate_roo-0 
+jaghanārdhād_obl-3 jaghana_nmo-2 ardhāt_con-1-1 avadyati_roo-0 
+jaghanārdhāddhi_dis-5 jaghana_nmo-2 ardhāt_obl-5 hi_dis-5 prajāḥ_nsu-5 prajāyante_roo-0 
+sthavimato_obl-2 'vadyati_roo-0 
+sthavimato_obl-4 hi_dis-4 prajāḥ_nsu-4 prajāyante_roo-0 
+asambhindann_adv-3 a_adv-2 sambhindan_con-1 avadyati_roo-0 prāṇānām_obj-5-6 asambhedāya_adv-3 a_adv-6 sambhedāya_con-5 
+na_adv-2 paryāvartayati_roo-0 
+yat_mar-2 paryāvartayed_adv-5 udāvartaḥ_nsu-5 prajā_obj-5 grāhukaḥ_roo-0 syāt_cop-5 
+samudraṃ_obl-2 gaccha_cco-5 svāhety_adv-5 svāhā_cco-5 iti_mar-3 āha_roo-0 
+reta_obj-4 eva_dis-1 tad_adv-4 dadhāti_roo-0 
+antarikṣaṃ_obl-2 gaccha_cco-5 svāhety_mar-2 svāhā_cco-5 iti_mar-3 āha_roo-0 
+antarikṣeṇaivāsmai_roo-0 antarikṣeṇa_obl-5 eva_dis-1 asmai_iob-5 prajāḥ_obj-5 prajanayati_con-1 
+antarikṣaṃ_obl-5 hy_dis-5 anu_cas-1 prajāḥ_nsu-5 prajāyante_roo-0 
+devaṃ_nmo-2 savitāraṃ_obl-3 gaccha_roo-0 svāhety_adv-6 svāhā_cco-6 iti_mar-4 āha_sen-3 
+savitṛprasūta_roo-0 savitṛ_obl-2 prasūtaḥ_csu-6 evāsmai_adv-6 eva_dis-2 asmai_iob-6 prajāḥ_obj-6 prajanayati_sen-1 
+ahorātre_obl-3 ahar_com-2 rātre_con-1 gaccha_cco-6 svāhety_mar-3 svāhā_par-3 iti_mar-4 āha_roo-0 
+ahorātrābhyām_roo-0 ahar_com-2 rātrābhyām_nmo-1 evāsmai_adv-6 eva_dis-2 asmai_iob-6 prajāḥ_obj-6 prajanayati_sen-1 
+ahorātre_com-2 ahar_com-2 rātre_obl-6 hy_dis-6 anu_cas-2 prajāḥ_nsu-6 prajāyante_roo-0 
+mitrāvaruṇau_obl-2 gaccha_roo-0 svāhety_adv-5 svāhā_cco-5 iti_mar-3 āha_sen-2 
+prajāsv_nsu-3 eva_dis-1 prajātāsu_adv-6 prāṇāpānau_obj-6 prāṇa_com-5 apānau_xco-6 dadhāti_roo-0 
+somaṃ_obl-2 gaccha_cco-5 svāhety_mar-2 svāhā_cco-5 iti_mar-3 āha_roo-0 
+saumyā_roo-0 hi_dis-1 devatayā_obl-1 prajāḥ_nsu-1 
+yajñaṃ_obl-2 gaccha_roo-0 svāhety_adv-5 svāhā_cco-5 iti_mar-3 āha_sen-2 
+prajā_obj-4 eva_dis-1 yajñiyāḥ_xco-4 karoti_roo-0 
+chandāṃsi_obl-2 gaccha_cco-5 svāhety_mar-2 svāhā_cco-5 iti_mar-3 āha_roo-0 
+paśavo_roo-0 vai_dis-1 chandāṃsi_nsu-1 
+paśūn_obj-2-3 evāvarunddhe_roo-0 eva_dis-1 avarunddhe_sen-2 
+dyāvāpṛthivī_obl-2 gaccha_cco-5 svāhety_mar-2 svāhā_cco-5 iti_mar-3 āha_roo-0 
+prajā_obj-6 eva_dis-1 prajātā_acl-1 dyāvāpṛthivībhyām_obl-6 ubhayataḥ_adv-6 parigṛhṇāti_roo-0 
+nabho_obl-3 divyaṃ_amo-1 gaccha_roo-0 svāhety_adv-6 svāhā_cco-6 iti_mar-4 āha_sen-3 
+prajābhya_iob-5 eva_dis-1 prajātābhyaḥ_acl-1 vṛṣṭiṃ_obj-5 niyacchati_roo-0 
+agniṃ_obl-3 vaiśvānaraṃ_fla-1 gaccha_fla-2 svāhety_fla-3 svāhā_fla-4 iti_mar-4 āha_roo-0 
+prajā_obj-5 eva_dis-1 prajātā_acl-1 asyām_obl-5 pratiṣṭhāpayati_roo-0 
+prāṇānāṃ_obj-4 vā_dis-4 eṣo_nsu-4 'vadyati_roo-0 yo_nsu-6 'vadyati_acl-3 gudasya_obj-6 
+mano_obj-4 me_nmo-1 hārdi_obl-4 yacchety_adv-6 yaccha_cco-6 iti_mar-4 āha_roo-0 
+prāṇān_obj-4 eva_dis-1 yathāsthānam_adv-4 upahvayate_roo-0 
+paśor_nmo-4 vā_cc-6 ālabdhasya_acl-1 hṛdayaṃ_obl-6 śug_nsu-6 ṛcchati_roo-0 
+sā_nsu-3 hṛdayaśūlam_obl-3 abhisameti_roo-0 
+yat_mar-4 pṛthivyāṃ_obl-4 hṛdayaśūlam_obj-4 udvāsayet_adv-6-6 pṛthivīṃ_obj-6-6-7 śucārpayet_roo-0 śucā_obl-7 arpayet_con-6 
+yad_mar-4 apsv_obl-4 apaḥ_obj-4 śucārpayet_adv-5 śucā_obl-5 arpayet_roo-0 
+śuṣkasya_nmo-5 cārdrasya_con-1 ca_cc-1 ārdrasya_con-1 ca_cc-3 saṃdhāv_obl-6 udvāsayaty_roo-0 ubhayasya_nmo-8 śāntyai_adv-6 
+yaṃ_obj-2 dviṣyāt_acl-3 taṃ_obj-4 dhyāyet_roo-0 
+śucaivainam_roo-0 śucā_obl-4 eva_dis-1 enam_obj-4 arpayati_con-1 

@@ -4,6 +4,7 @@ import argparse
 from collections import defaultdict
 from typing import List, Dict, Tuple, Set, Any, Optional
 import matplotlib.pyplot as plt
+import random
 
 
 class DependencyNode:
@@ -137,8 +138,14 @@ def tree_edit_distance(tree1: List[DependencyNode], tree2: List[DependencyNode])
     if max_size == 0:
         return 0.0
     
-    return total_distance / max_size
+    # Explicit normalization
+    normalized_distance = total_distance / max_size
+    
+    return normalized_distance
 
+
+def safe_average(distances):
+    return np.mean(distances) if distances else 1.0  # Using max normalized distance (1.0) as fallback
 
 def compute_average_distances(input_sentences: List[List[DependencyNode]], 
                              treebank1: List[List[DependencyNode]], 
@@ -153,31 +160,58 @@ def compute_average_distances(input_sentences: List[List[DependencyNode]],
     Returns a dictionary mapping sentence indices to tuples of (avg_distance_to_treebank1, avg_distance_to_treebank2, avg_distance_to_treebank3, avg_distance_to_treebank4, avg_distance_to_treebank5, avg_distance_to_treebank6)
     """
     results = {}
-    
+    max_samples = 1000  # Maximum number of samples to use for averaging
+
     for i, sentence in enumerate(input_sentences):
-        # Compute distances to treebank1
-        distances1 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in treebank1]
-        avg_distance1 = np.mean(distances1) if distances1 else float('inf')
+        sentence_length = len(sentence)
+        min_length = int(sentence_length * 0.8)
+        max_length = int(sentence_length * 1.2)
         
-        # Compute distances to treebank2
-        distances2 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in treebank2]
-        avg_distance2 = np.mean(distances2) if distances2 else float('inf')
+        # Filter and sample treebank sentences by length
+        filtered_treebank1 = [s for s in treebank1 if min_length <= len(s) <= max_length]
+        filtered_treebank2 = [s for s in treebank2 if min_length <= len(s) <= max_length]
+        filtered_treebank3 = [s for s in treebank3 if min_length <= len(s) <= max_length]
+        filtered_treebank4 = [s for s in treebank4 if min_length <= len(s) <= max_length]
+        filtered_treebank5 = [s for s in treebank5 if min_length <= len(s) <= max_length]
+        filtered_treebank6 = [s for s in treebank6 if min_length <= len(s) <= max_length]
+        # print length of filtered treebanks
+        print(f"Length of filtered treebank1: {len(filtered_treebank1)}")
+        print(f"Length of filtered treebank2: {len(filtered_treebank2)}")
+        print(f"Length of filtered treebank3: {len(filtered_treebank3)}")
+        print(f"Length of filtered treebank4: {len(filtered_treebank4)}")
+        print(f"Length of filtered treebank5: {len(filtered_treebank5)}")
+        print(f"Length of filtered treebank6: {len(filtered_treebank6)}")
+        # Sample from the filtered lists
+        sampled_treebank1 = random.sample(filtered_treebank1, min(max_samples, len(filtered_treebank1))) if filtered_treebank1 else []
+        sampled_treebank2 = random.sample(filtered_treebank2, min(max_samples, len(filtered_treebank2))) if filtered_treebank2 else []
+        sampled_treebank3 = random.sample(filtered_treebank3, min(max_samples, len(filtered_treebank3))) if filtered_treebank3 else []
+        sampled_treebank4 = random.sample(filtered_treebank4, min(max_samples, len(filtered_treebank4))) if filtered_treebank4 else []
+        sampled_treebank5 = random.sample(filtered_treebank5, min(max_samples, len(filtered_treebank5))) if filtered_treebank5 else []
+        sampled_treebank6 = random.sample(filtered_treebank6, min(max_samples, len(filtered_treebank6))) if filtered_treebank6 else []
         
-        # Compute distances to treebank3
-        distances3 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in treebank3]
-        avg_distance3 = np.mean(distances3) if distances3 else float('inf')
+        # Compute distances to sampled treebank1
+        distances1 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in sampled_treebank1]
+        avg_distance1 = safe_average(distances1)
         
-        # Compute distances to treebank4
-        distances4 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in treebank4]
-        avg_distance4 = np.mean(distances4) if distances4 else float('inf')
+        # Compute distances to sampled treebank2
+        distances2 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in sampled_treebank2]
+        avg_distance2 = safe_average(distances2)
         
-        # Compute distances to treebank5
-        distances5 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in treebank5]
-        avg_distance5 = np.mean(distances5) if distances5 else float('inf')
+        # Compute distances to sampled treebank3
+        distances3 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in sampled_treebank3]
+        avg_distance3 = safe_average(distances3)
         
-        # Compute distances to treebank6
-        distances6 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in treebank6]
-        avg_distance6 = np.mean(distances6) if distances6 else float('inf')
+        # Compute distances to sampled treebank4
+        distances4 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in sampled_treebank4]
+        avg_distance4 = safe_average(distances4)
+        
+        # Compute distances to sampled treebank5
+        distances5 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in sampled_treebank5]
+        avg_distance5 = safe_average(distances5)
+        
+        # Compute distances to sampled treebank6
+        distances6 = [tree_edit_distance(sentence, ref_sentence) for ref_sentence in sampled_treebank6]
+        avg_distance6 = safe_average(distances6)
         
         results[i] = (avg_distance1, avg_distance2, avg_distance3, avg_distance4, avg_distance5, avg_distance6)
         
@@ -192,6 +226,7 @@ def main():
     
     # Hardcode the file paths
     input_file = 'data/yd-parsed.txt'
+    #input_file = 'data/vedic.txt'
     treebank1_file = 'treebanks/la_proiel-ud-train.conllu'
     treebank2_file = 'treebanks/sa_vedic-ud-train.conllu'
     treebank3_file = 'treebanks/de_gsd-ud-train.conllu'
@@ -243,60 +278,65 @@ def main():
     print(f"Parsed {len(treebank5)} sentences from treebank 5 after pruning")
     print(f"Parsed {len(treebank6)} sentences from treebank 6 after pruning")
     
-    # Compute the average distances
+    # Compute the average distances and total distances
     results = compute_average_distances(input_sentences, treebank1, treebank2, treebank3, treebank4, treebank5, treebank6)
     
+    # Initialize total distances
+    total_distances = [0.0] * 6
+    
+    # Initialize counters for sentences closer to each treebank
+    tb1_closer = tb2_closer = tb3_closer = tb4_closer = tb5_closer = tb6_closer = equal = 0
+
     # Write the results to the output file
     with open(args.output, 'w', encoding='utf-8') as f:
-        f.write("Sentence_ID\tAvg_Distance_Treebank1\tAvg_Distance_Treebank2\tAvg_Distance_Treebank3\tAvg_Distance_Treebank4\tAvg_Distance_Treebank5\tAvg_Distance_Treebank6\tCloser_To\tTreebank_File\n")
+        f.write("Sentence_ID\tAvg_Distance_Treebank1\tAvg_Distance_Treebank2\tAvg_Distance_Treebank3\tAvg_Distance_Treebank4\tAvg_Distance_Treebank5\tAvg_Distance_Treebank6\n")
         
         for sentence_id, (dist1, dist2, dist3, dist4, dist5, dist6) in sorted(results.items()):
-            if dist1 < dist2 and dist1 < dist3 and dist1 < dist4 and dist1 < dist5 and dist1 < dist6:
-                closer_to = "Treebank1"
-                treebank_file = treebank1_file
-            elif dist2 < dist1 and dist2 < dist3 and dist2 < dist4 and dist2 < dist5 and dist2 < dist6:
-                closer_to = "Treebank2"
-                treebank_file = treebank2_file
-            elif dist3 < dist1 and dist3 < dist2 and dist3 < dist4 and dist3 < dist5 and dist3 < dist6:
-                closer_to = "Treebank3"
-                treebank_file = treebank3_file
-            elif dist4 < dist1 and dist4 < dist2 and dist4 < dist3 and dist4 < dist5 and dist4 < dist6:
-                closer_to = "Treebank4"
-                treebank_file = treebank4_file
-            elif dist5 < dist1 and dist5 < dist2 and dist5 < dist3 and dist5 < dist4 and dist5 < dist6:
-                closer_to = "Treebank5"
-                treebank_file = treebank5_file
-            elif dist6 < dist1 and dist6 < dist2 and dist6 < dist3 and dist6 < dist4 and dist6 < dist5:
-                closer_to = "Treebank6"
-                treebank_file = treebank6_file
+            total_distances[0] += dist1
+            total_distances[1] += dist2
+            total_distances[2] += dist3
+            total_distances[3] += dist4
+            total_distances[4] += dist5
+            total_distances[5] += dist6
+            
+            # Determine which treebank the sentence is closest to
+            distances = [dist1, dist2, dist3, dist4, dist5, dist6]
+            min_distance = min(distances)
+            if distances.count(min_distance) > 1:
+                equal += 1
             else:
-                closer_to = "Equal"
-                treebank_file = "Multiple"
-                
-            f.write(f"{sentence_id+1}\t{dist1:.4f}\t{dist2:.4f}\t{dist3:.4f}\t{dist4:.4f}\t{dist5:.4f}\t{dist6:.4f}\t{closer_to}\t{treebank_file}\n")
+                closest_index = distances.index(min_distance)
+                if closest_index == 0:
+                    tb1_closer += 1
+                elif closest_index == 1:
+                    tb2_closer += 1
+                elif closest_index == 2:
+                    tb3_closer += 1
+                elif closest_index == 3:
+                    tb4_closer += 1
+                elif closest_index == 4:
+                    tb5_closer += 1
+                elif closest_index == 5:
+                    tb6_closer += 1
+            
+            f.write(f"{sentence_id+1}\t{dist1:.4f}\t{dist2:.4f}\t{dist3:.4f}\t{dist4:.4f}\t{dist5:.4f}\t{dist6:.4f}\n")
     
     print(f"Results written to {args.output}")
     
-    # Print summary statistics
-    tb1_closer = sum(1 for _, (d1, d2, d3, d4, d5, d6) in results.items() if d1 < d2 and d1 < d3 and d1 < d4 and d1 < d5 and d1 < d6)
-    tb2_closer = sum(1 for _, (d1, d2, d3, d4, d5, d6) in results.items() if d2 < d1 and d2 < d3 and d2 < d4 and d2 < d5 and d2 < d6)
-    tb3_closer = sum(1 for _, (d1, d2, d3, d4, d5, d6) in results.items() if d3 < d1 and d3 < d2 and d3 < d4 and d3 < d5 and d3 < d6)
-    tb4_closer = sum(1 for _, (d1, d2, d3, d4, d5, d6) in results.items() if d4 < d1 and d4 < d2 and d4 < d3 and d4 < d5 and d4 < d6)
-    tb5_closer = sum(1 for _, (d1, d2, d3, d4, d5, d6) in results.items() if d5 < d1 and d5 < d2 and d5 < d3 and d5 < d4 and d5 < d6)
-    tb6_closer = sum(1 for _, (d1, d2, d3, d4, d5, d6) in results.items() if d6 < d1 and d6 < d2 and d6 < d3 and d6 < d4 and d6 < d5)
-    equal = sum(1 for _, (d1, d2, d3, d4, d5, d6) in results.items() if (d1 == d2 and d1 < d3 and d1 < d4 and d1 < d5 and d1 < d6) or (d1 == d3 and d1 < d2 and d1 < d4 and d1 < d5 and d1 < d6) or (d1 == d4 and d1 < d2 and d1 < d3 and d1 < d5 and d1 < d6) or (d1 == d5 and d1 < d2 and d1 < d3 and d1 < d4 and d1 < d6) or (d1 == d6 and d1 < d2 and d1 < d3 and d1 < d4 and d1 < d5) or (d2 == d3 and d2 < d1 and d2 < d4 and d2 < d5 and d2 < d6) or (d2 == d4 and d2 < d1 and d2 < d3 and d2 < d5 and d2 < d6) or (d2 == d5 and d2 < d1 and d2 < d3 and d2 < d4 and d2 < d6) or (d2 == d6 and d2 < d1 and d2 < d3 and d2 < d4 and d2 < d5) or (d3 == d4 and d3 < d1 and d3 < d2 and d3 < d5 and d3 < d6) or (d3 == d5 and d3 < d1 and d3 < d2 and d3 < d4 and d3 < d6) or (d3 == d6 and d3 < d1 and d3 < d2 and d3 < d4 and d3 < d5) or (d4 == d5 and d4 < d1 and d4 < d2 and d4 < d3 and d4 < d6) or (d4 == d6 and d4 < d1 and d4 < d2 and d4 < d3 and d4 < d5) or (d5 == d6 and d5 < d1 and d5 < d2 and d5 < d3 and d5 < d4) or (d1 == d2 == d3 and d1 < d4 and d1 < d5 and d1 < d6) or (d1 == d2 == d4 and d1 < d3 and d1 < d5 and d1 < d6) or (d1 == d2 == d5 and d1 < d3 and d1 < d4 and d1 < d6) or (d1 == d2 == d6 and d1 < d3 and d1 < d4 and d1 < d5) or (d1 == d3 == d4 and d1 < d2 and d1 < d5 and d1 < d6) or (d1 == d3 == d5 and d1 < d2 and d1 < d4 and d1 < d6) or (d1 == d3 == d6 and d1 < d2 and d1 < d4 and d1 < d5) or (d1 == d4 == d5 and d1 < d2 and d1 < d3 and d1 < d6) or (d1 == d4 == d6 and d1 < d2 and d1 < d3 and d1 < d5) or (d1 == d5 == d6 and d1 < d2 and d1 < d3 and d1 < d4) or (d2 == d3 == d4 and d2 < d1 and d2 < d5 and d2 < d6) or (d2 == d3 == d5 and d2 < d1 and d2 < d4 and d2 < d6) or (d2 == d3 == d6 and d2 < d1 and d2 < d4 and d2 < d5) or (d2 == d4 == d5 and d2 < d1 and d2 < d3 and d2 < d6) or (d2 == d4 == d6 and d2 < d1 and d2 < d3 and d2 < d5) or (d2 == d5 == d6 and d2 < d1 and d2 < d3 and d2 < d4) or (d3 == d4 == d5 and d3 < d1 and d3 < d2 and d3 < d6) or (d3 == d4 == d6 and d3 < d1 and d3 < d2 and d3 < d5) or (d3 == d5 == d6 and d3 < d1 and d3 < d2 and d3 < d4) or (d4 == d5 == d6 and d4 < d1 and d4 < d2 and d4 < d3) or (d1 == d2 == d3 == d4 and d1 < d5 and d1 < d6) or (d1 == d2 == d3 == d5 and d1 < d4 and d1 < d6) or (d1 == d2 == d3 == d6 and d1 < d4 and d1 < d5) or (d1 == d2 == d4 == d5 and d1 < d3 and d1 < d6) or (d1 == d2 == d4 == d6 and d1 < d3 and d1 < d5) or (d1 == d2 == d5 == d6 and d1 < d3 and d1 < d4) or (d1 == d3 == d4 == d5 and d1 < d2 and d1 < d6) or (d1 == d3 == d4 == d6 and d1 < d2 and d1 < d5) or (d1 == d3 == d5 == d6 and d1 < d2 and d1 < d4) or (d1 == d4 == d5 == d6 and d1 < d2 and d1 < d3) or (d2 == d3 == d4 == d5 and d2 < d1 and d2 < d6) or (d2 == d3 == d4 == d6 and d2 < d1 and d2 < d5) or (d2 == d3 == d5 == d6 and d2 < d1 and d2 < d4) or (d2 == d4 == d5 == d6 and d2 < d1 and d2 < d3) or (d3 == d4 == d5 == d6 and d3 < d1 and d3 < d2) or (d1 == d2 == d3 == d4 == d5 and d1 < d6) or (d1 == d2 == d3 == d4 == d6 and d1 < d5) or (d1 == d2 == d3 == d5 == d6 and d1 < d4) or (d1 == d2 == d4 == d5 == d6 and d1 < d3) or (d1 == d3 == d4 == d5 == d6 and d1 < d2) or (d2 == d3 == d4 == d5 == d6 and d2 < d1) or (d1 == d2 == d3 == d4 == d5 == d6))
+    # Calculate mean and standard deviation of total distances
+    mean_distance = np.mean(total_distances)
+    std_distance = np.std(total_distances)
     
-    print(f"Summary:")
-    print(f"- Sentences closer to Treebank1 ({treebank1_file}): {tb1_closer} ({tb1_closer/len(results)*100:.1f}%)")
-    print(f"- Sentences closer to Treebank2 ({treebank2_file}): {tb2_closer} ({tb2_closer/len(results)*100:.1f}%)")
-    print(f"- Sentences closer to Treebank3 ({treebank3_file}): {tb3_closer} ({tb3_closer/len(results)*100:.1f}%)")
-    print(f"- Sentences closer to Treebank4 ({treebank4_file}): {tb4_closer} ({tb4_closer/len(results)*100:.1f}%)")
-    print(f"- Sentences closer to Treebank5 ({treebank5_file}): {tb5_closer} ({tb5_closer/len(results)*100:.1f}%)")
-    print(f"- Sentences closer to Treebank6 ({treebank6_file}): {tb6_closer} ({tb6_closer/len(results)*100:.1f}%)")
-    print(f"- Sentences equally distant: {equal} ({equal/len(results)*100:.1f}%)")
+    # Print normalized distances as deviations from the mean
+    print("Normalized Tree Edit Distances (Deviations from Mean):")
+    print(f"- Deviation for Treebank1: {(total_distances[0] - mean_distance) / std_distance:.4f}")
+    print(f"- Deviation for Treebank2: {(total_distances[1] - mean_distance) / std_distance:.4f}")
+    print(f"- Deviation for Treebank3: {(total_distances[2] - mean_distance) / std_distance:.4f}")
+    print(f"- Deviation for Treebank4: {(total_distances[3] - mean_distance) / std_distance:.4f}")
+    print(f"- Deviation for Treebank5: {(total_distances[4] - mean_distance) / std_distance:.4f}")
+    print(f"- Deviation for Treebank6: {(total_distances[5] - mean_distance) / std_distance:.4f}")
     
-    def plot_summary(tb1_closer, tb2_closer, tb3_closer, tb4_closer, tb5_closer, tb6_closer, equal, total,
-                     tb1_file, tb2_file, tb3_file, tb4_file, tb5_file, tb6_file):
+    def plot_summary(deviations, tb1_file, tb2_file, tb3_file, tb4_file, tb5_file, tb6_file):
         labels = [
             f'Treebank1\n({tb1_file})',
             f'Treebank2\n({tb2_file})',
@@ -304,24 +344,29 @@ def main():
             f'Treebank4\n({tb4_file})',
             f'Treebank5\n({tb5_file})',
             f'Treebank6\n({tb6_file})',
-            'Equal'
         ]
-        counts = [tb1_closer, tb2_closer, tb3_closer, tb4_closer, tb5_closer, tb6_closer, equal]
-        percentages = [count / total * 100 for count in counts]
 
         plt.figure(figsize=(12, 8))
-        plt.bar(labels, percentages, color=['blue', 'orange', 'green', 'red', 'purple', 'brown', 'gray'])
+        plt.bar(labels, deviations, color=['blue', 'orange', 'green', 'red', 'purple', 'brown'])
         plt.xlabel('Treebanks')
-        plt.ylabel('Percentage of Sentences (%)')
-        plt.title('Summary of Sentences Closer to Each Treebank')
-        plt.ylim(0, 100)
+        plt.ylabel('Deviation from Mean')
+        plt.title('Deviation of Total Distances from Mean for Each Treebank')
         plt.xticks(rotation=45, ha='right')
         plt.tight_layout()
-        plt.savefig('result.png')
+        plt.savefig('deviation_result.png')
     
-    # Call the plot_summary function with the computed values and filenames
-    plot_summary(tb1_closer, tb2_closer, tb3_closer, tb4_closer, tb5_closer, tb6_closer, equal, len(results),
-                 treebank1_file, treebank2_file, treebank3_file, treebank4_file, treebank5_file, treebank6_file)
+    # Calculate deviations
+    deviations = [
+        (total_distances[0] - mean_distance) / std_distance,
+        (total_distances[1] - mean_distance) / std_distance,
+        (total_distances[2] - mean_distance) / std_distance,
+        (total_distances[3] - mean_distance) / std_distance,
+        (total_distances[4] - mean_distance) / std_distance,
+        (total_distances[5] - mean_distance) / std_distance
+    ]
+
+    # Call the plot_summary function with the computed deviations and filenames
+    plot_summary(deviations, treebank1_file, treebank2_file, treebank3_file, treebank4_file, treebank5_file, treebank6_file)
     
 if __name__ == "__main__":
     main()
