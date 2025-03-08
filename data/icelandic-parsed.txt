@@ -1,0 +1,53 @@
+fögnuður_nsu-2 verður_roo-0 þessa_det-4 heims_obj-2 sá_det-9 hæstur_acl-9 er_dis-6 góður_con-6 maður_nsu-10 fagnar_sen-2 engla_nmo-9 tilkvomu_obl-10 á_cas-12 dauðastundu_adv-10 sinni_con-12 
+Þjónusta_roo-0 kennimanna_nmo-1._nsu-1 
+menn_nsu-5 þeir_det-1,_adv-5 er_dis-5 bera_roo-0 kennimannanöfn_obj-5 og_cc-8 vígslur_con-6 yfir_orp-8 ólærðum_amo-11 mönnum_obj-8,_orp-13 þeir_nsu-15 eru_det-11 skyldir_sen-5 að_dis-15 þjónam_obj-15 
+þeir_nsu-3 eru_obl-3 skyldir_roo-0 að_adv-5 þjóna_sen-3 guði_nmo-6 skapera_nmo-6 sínum_nmo-7 á_adv-10 öllum_con-6 hátíðum_con-10 með_adv-13 tvinnri_con-6 þjónustu_nmo-13._cc-13 Þeirri_nmo-14 
+en_dis-7 sú_dis-7 þjónasta_nsu-7 önnur_xco-7 er_obj-7 oss_iob-7 boðin_roo-0 við_cas-9 Guð_obl-7 á_cas-9 helgum_amo-12 tíðum_obj-7,_orp-15 að_mar-15 vér_nsu-15 skulum_con-12 hans_nmo-16 erin_con-12 
+ættim_roo-0 vér_nsu-1 og_adv-5 að_adv-5 kynna_adv-1 yður_iob-5 boðorð_obj-5 hans_nmo-7,mar-8 hve_dis-12 hann_nsu-12 vill_con-8 að_mar-16 vér_nsu-16 skipim_par-12 voru_obj-16 athæfi_sen-1 þess_nmo-18 eris_cop-18 
+nú_adv-7 þó_dis-5 að_fix-2 vér_fla-3 séim_fla-4 mjög_fla-5 vanbúnir_fla-6 til_fla-7 hvorrar_fla-8,fla-9 sem_fla-10 vér_fla-11 fremjum_fla-12 guðsþjónustu_fla-14 þeirra_fla-16 er_fla-17 ná_fla-18 
+Þurfum_roo-0 vér_nsu-1 fyr_adv-1 því_obl-1 of_cas-4 þann_det-7 hlut_obj-1 einkum_adv-1 mest_dis-8 yðvarrar_sen-1 vorkunnar_nmo-10 og_dis-11 þess_nmo-11,_dis-17 að_adv-17 ér_nsu-17 færið_con-10 þau_nsu-17 orð_xco-17 
+vitum_roo-0 vér_nsu-1 þess_nmo-4 von_obl-5 ofvalt_adv-1,_adv-1 er_dis-5 vér_nsu-9 mælum_con-1 fyr_adv-9 mjög_adv-9 mörgum_obj-9 mönnum_con-12,xco-9 að_dis-17 þeir_nsu-17 munu_obl-9 á_cas-17 ór_nsu-17 ora_sen-1 
+nú_dis-4 ef_fix-1 ér_nsu-4 vilið_roo-0 þó_adv-4 að_dis-7 hvoru_obl-4 taka_sen-4 við_orp-8 kenningu_obj-8 hugþekklega_acl-10 og_dis-13 lítillátlega_con-11,_con-11 þótt_mar-13 eigi_adv-17 sé_con-10 með_orp-17 fix-16 fix-16 
+assumptio_roo-0 sancte_con-1 Marie_con-1._con-1 
+uppnumning_roo-0 heilagrar_con-1 Maríu_nsu-1._cc-1 
+in_dis-3 helga_amo-3 mær_roo-0,_con-3 María_nmo-3,_con-3 móðir_con-3 Drottins_con-3 vors_nmo-8,xco-8 var_obl-8 ins_cas-14 besta_amo-14 kyns_obl-16,_con-9 komin_adv-3 frá_cas-14 Abraham_obj-16 
+inir_nsu-8 nánustu_amo-1 frændur_con-1 hennar_nmo-3 vóru_obl-3 réttlátir_con-1 og_dis-8 höfðu_roo-0 mikið_amo-10 kraftalán_obj-8 af_adv-12 Guði_adv-8,_par-8 en_fix-13 lítið_nsu-12 auralán_con-10 
+en_adv-5 þegar_adv-5 er_fix-2 María_nsu-5 kunni_adv-12 góðs_amo-7 greinir_obj-5 og_cc-9 ills_con-6,_con-5 þá_adv-12 lagði_roo-0 hún_nsu-12 þegar_adv-12 ást_obl-12 við_cas-15 Guð_obj-15 
+fyrst_amo-2 kvenna_nmo-4 hét_roo-0 hún_nsu-3 því_det-6 heiti_obl-3 Guði_acl-6 að_adv-9 halda_con-6 hreinlífi_con-6,_con-6 og_dis-13 nam_sen-3 hún_nsu-13 eigi_adv-13 það_obj-13 af_cas-16 annarra_nmo-16 
+hafa_roo-0 megu_obj-1 góðir_amo-4 menn_nsu-1 hreinlífi_obj-1 það_det-5,xco-1 er_dis-10 maría_par-1 hafði_orp-9,áður_adv-14 hún_nsu-14 bæri_par-10 Krist_obj-14._par-14 
+en_orp-3 þó_orp-3 er_orp-3 hennar_nmo-5 hreinlífi_roo-0 dýrlegra_acl-5 en_dis-6 annarra_nmo-5,_con-3 því_orp-9 að_mar-12 meiri_amo-13 vegur_con-5 er_orp-14 að_adv-16 sýna_con-3 in_orp-16 bestu_amo-17 
+en_dis-5 síðan_adv-5 er_dis-2 hún_nsu-5 bar_roo-0 Drottin_obj-5 vorn_xco-5,_con-5 þá_adv-10 var_orp-10 allt_det-12 líf_nsu-10 hennar_nmo-12 helgara_sen-5 en_dis-14 menn_nsu-17 megi_orp-16 efti_orp-16 efti_orp-16 
+en_cas-3 af_dis-3 því_obl-6 að_mar-6 hún_nsu-6 tókst_adv-10 meira_amo-9 á_adv-9 hendur_obj-6 Guði_roo-0 að_adv-12 þjóna_adv-10 en_dis-12 boðorð_nsu-15 væri_obl-10 til_cas-15 eða_dis-15 dæmi_con-14 
+Öll_det-3 góð_roo-0 verk_nsu-2,_sen-2 þau_obj-9 er_dis-9 aðrir_nsu-8 menn_nsu-9 gera_sen-2 við_adv-9 liðu_nmo-5 Guðs_nmo-11,_xco-15 þau_obj-15 gjörði_con-9 María_nsu-15 við_cas-12 
+aðrir_roo-0 menn_nsu-1 gefa_sen-1 hungruðum_acl-4 fæðslu_obl-3,con-4 en_dis-6 þyrstum_con-4 drykk_obj-3,con-4 en_dis-10 maría_nsu-13 fæddi_con-4 Drottin_nmo-9 vorn_xco-13 sjálfa_app-14 
+aðrir_amo-2 menn_nsu-3 klæða_roo-0 þá_obl-3 er_dis-5 kalnir_adv-3 eru_obj-7,_par-3 en_fix-9 maría_nsu-12 klæddi_con-3 son_obj-12 Guðs_nmo-11 holdi_obl-12 sínu_obj-15 og_cco-12 
+aðrir_roo-0 menn_nsu-1 vitja_acl-4 þeirra_nmo-2,orp-1 er_mar-5 í_adv-8 myrkvastofum_orp-5 eru_orp-8 eða_adv-11 veita_con-8 þeim_nmo-13 miskunn_obj-11,_orp-16 er_mar-14 fyrdæmdir_adv-11 eru_orp-16 
+en_adv-3 maría_nsu-3 flæði_roo-0 undan_adv-3 ofríki_obl-3 Heródes_nmo-8 með_orp-8 Drottin_con-3 vorn_acl-8 til_orp-11 Egiptalands_con-6._cc-11 
+en_adv-3 meðan_adv-3 drottinn_roo-0 vor_nsu-3 var_obl-3 þessa_det-7 heims_nmo-4,_xco-10 þá_adv-10 fylgdi_sen-3 María_nsu-10 honum_iob-14 og_dis-14 nam_sen-3 að_dis-14 honum_obj-14 alla_det-16 
+en_adv-5 þó_dis-5 að_fix-2 guð_nsu-5 veitti_roo-0 henni_obl-5 þessa_nmo-8 hluti_obj-5,_con-5 þá_adv-11 virti_con-5 hún_nsu-11 sig_obj-11 þó_adv-11 lítils_obl-11 og_dis-17 var_obj-17 þess_nmo-17 
+Þeir_det-2 menn_nsu-6 eru_adv-6 og_dis-3 mikils_nmo-8 virtir_roo-0 af_adv-8 guði_obj-6 af_adv-8 guði_obj-6,_orp-12 er_dis-12 píningar_nsu-12 taka_sen-6 af_adv-12 vondum_acl-15 mönnum_obj-12 fyr_cas-17 hans_nmo-15 saka_con-12 
+en_adv-4 það_nsu-4 of_cas-2 markar_roo-0 að_adv-4 glíkindum_obj-4,_orp-9 hve_dis-9 sár_sen-4 henni_orp-9 myndi_orp-9 vera_con-11 sú_det-14 sýn_nsu-11 að_adv-16 sjá_con-9 einkason_obj-16 sinn_obj-16 pínda_con-17 
+en_adv-4 þeim_obl-4 mun_obl-4 unni_roo-0 maría_sen-4 meiri_amo-5 ást_fla-5 og_fla-7 helgari_fla-8 sínum_fla-9 syni_fla-10 sem_fla-11 hennar_fla-12 sonur_fla-13 var_fla-14 helgari_fla-15 en_fla-16 
+Það_nsu-4 má_obj-4 og_xco-4 sjá_roo-0,orp-6 hve_par-4 miklu_orp-6 heldur_con-6 hún_nsu-7 myndi_par-6 vilja_orp-9 taka_par-10 sjálf_nsu-12 allar_det-15 píningar_con-14 á_cas-15 sinn_det-18 líkam_con-14,orp-13 
+Því_orp-2 er_orp-2 hennar_nmo-4 píning_roo-0 meiri_amo-4 og_dis-7 helgari_con-5 en_dis-7 annarra_amo-10 manna_nmo-10,_con-5 að_mar-15 öndu_obj-15 hennar_nmo-13 varð_con-2 sárara_amo-4 við_nsu-16 
+eftir_cas-2 píning_roo-0 Drottins_nmo-2 vors_nmo-3 og_dis-6 upprisu_nmo-4,xco-9 þá_adv-9 fylgdi_sen-2 hún_nsu-9 postulum_obl-9 guðs_nmo-10,orp-12 og_dis-15 varðveitti_con-9 hag_obj-15 hennum_acl-12 
+meðan_adv-6 hún_orp-6 var_orp-2 í_orp-6 þessum_det-6 heimi_roo-0,_orp-6 þá_adv-9 var_orp-9 hún_con-6 í_orp-13 þeim_det-13 stöðum_orp-10,_con-6 er_dis-14 Kristur_nsu-13 var_obl-16 borinn_sen-6 
+en_adv-5 það_nsu-5 er_iob-5 eigi_adv-5 sagt_roo-0,_con-5 að_mar-9 hún_fla-7 gerði_fla-8 jarteinir_fla-9 í_fla-10 lífi_fla-11 sínu_fla-12,fla-13 því_fla-14 að_fla-15 allt_fla-16 líf_fla-17 hi_fla-18 því_fla-19 að_fla-20 allt_fla-19 líf_fl
+en_adv-3 ekki_adv-3 var_roo-0 þess_nmo-6 í_cas-6 lífi_obl-3 Maríu_nmo-6,xco-10 er_dis-8 vondir_orp-10 of_cas-12 hafi_orp-10,_orp-15 en_dis-13 margt_orp-16 helgara_con-10 en_dis-16 góðir_con-16 
+en_orp-6 þó_orp-6 er_orp-6 ein_det-6 hennar_nmo-6 jartein_roo-0 helgari_amo-6 og_cc-9 æðri_con-7 en_orp-12 allar_det-12 jarteinir_con-6 heilagra_nmo-12,_orp-17 sú_dis-17 er_dis-15 hún_xco-17 bar_orp-17 
+og_dis-6 það_det-2 allt_det-2,orp-6 er_fix-4 Guð_roo-0 hefir_obj-9 oss_iob-9 veitt_con-7 miskunnar_nmo-7 í_adv-9 hingaðkomu_obj-9 sonar_nmo-13 síns_nmo-13,þá_adv-17 höfum_con-7 vér_obl-17 
+eða_dis-4 hvað_nsu-4 of_adv-4 jafni_roo-0 öðrum_nmo-6 mönnum_obj-4 við_cas-6 hana_obj-4,_cop-4 þar_adv-13 er_dis-13 hún_nsu-13 hefir_sen-4 svo_dis-13 miklu_orp-13 meiri_con-13 návistu_orp-16 hafða_amo-17 
+en_adv-3 maría_nsu-3 náði_roo-0 því_obl-3 framar_amo-4 að_mar-9 hún_fla-7 hafði_fla-8 hann_fla-9 níu_fla-10 mánuður_fla-11 sér_fla-12 í_fla-13 kviði_fla-14 og_fla-16 tók_fla-17 
+nú_adv-6 svo_fix-1 sem_dis-6 allir_det-5 hlutir_nsu-6 urðu_roo-0 að_adv-6 helgum_amo-9 dómum_obj-6,orp-10 þeir_nsu-13 er_dis-13 Drottni_sen-6 órum_obl-13 vóru_obl-16 nálægstir_acl-11,orp-16 sam_adv-13 
+en_orp-4 þar_orp-4 er_fix-2 vér_par-5 erum_orp-4 jarðlegir_par-5 að_adv-8 atferð_nsu-9 vorri_orp-8,_con-6 þá_adv-12 megum_orp-13 vér_par-12 hug_obj-19 órum_obj-19 eigi_adv-19 nær_adv-19 of_adv-19 koma_adv-13 
+en_adv-5 þau_det-3 dæmi_nsu-5 of_adv-5 tekur_roo-0 til_adv-5 þessa_nmo-3 :_sen-5 Þá_adv-12 er_dis-9 sól_nsu-12 skín_adv-5 á_adv-14 gler_obj-12 í_cas-16 heiði_obl-12,_orp-17 þá_adv-20 er_fix-18 glerið_nsu-20 
+sólin_nsu-2 merkir_roo-0 guðdóm_obj-2,orp-4 en_fix-4 glerið_con-2 ina_fla-6 helgu_fla-7 maríu_fla-8,orp-12 en_fix-10 geislinn_fla-11 drottin_fla-12 vorn_fla-13 Iesum_fla-14 christum_fla-15 
+Þá_adv-4 er_dis-4 sól_nsu-4 skín_roo-0 á_cas-6 glerið_obl-4,_orp-7 þá_orp-9 er_orp-9 hún_con-4 jafnbjört_acl-10 sem_dis-11 áður_adv-11,adv-11 og_dis-16 tekst_con-4 ekki_adv-16 af_dis-19 lýsi_obl-16 henum_adv-16 
+svo_adv-2 var_roo-0 og_dis-2 guðdómurinn_fla-3 heill_fla-4 og_fla-5 óskaddur_fla-6 í_fla-7 öllum_fla-8 krafti_fla-9 á_fla-10 himnum_fla-11,fla-12 þótt_fla-13 hann_fla-14 tæki_fla-15 manndóm_fla-16 
+en_dis-4 glerið_nsu-4 er_obl-4 hreint_roo-0 og_cc-6 gagnsætt_con-4,_con-4 svo_adv-6 að_mar-11 í_adv-11 gegnum_adv-4 það_obj-11 má_obj-11 sjá_con-4 sem_mar-18 ekki_adv-18 sé_obj-18 fyrir_adv-18 bæði_dis-18 
+svo_orp-2 má_roo-0 og_orp-2 líta_acl-6 himneskt_amo-6 líf_orp-2 í_orp-2 atferð_orp-2 maríu_nmo-6,_orp-15 er_dis-15 svo_adv-13 hreinan_amo-14 hug_orp-2 hafði_orp-2 ávallt_adv-2 til_dis-16 Guðs_nmo-14 
+Því_adv-2 mátti_obl-2 hún_nsu-6 maklega_amo-5 son_obj-6 geta_roo-0 af_cas-9 helgum_amo-9 anda_obl-6,_con-2 að_mar-13 hún_nsu-13 var_orp-13 þeim_amo-15 mun_orp-13 öllum_amo-15 hreinlífri_acl-15 
+en_adv-3 Drottinn_nsu-3 átti_roo-0 að_adv-5 taka_adv-3 líkam_obj-3 með_adv-3 þeirri_amo-9 meyju_nmo-9,_orp-13 er_fix-10 svo_adv-13 væri_adv-3 hreinlíf_acl-16 sem_dis-14 líkneski_nsu-14 verður_sen-3 
+Þótt_dis-2 gull_roo-0 og_cc-4 silfur_con-2 sé_sen-2 í_orp-5 sólskini_orp-5,orp-5 þá_orp-10 er_con-5 þó_adv-12 engi_con-5 geisli_fla-12 í_fla-13 gegnum_fla-14 það_fla-15 því_fla-16 að_fla-17 því_fla-18 að_fla-19 
+svo_adv-3 sem_mar-3 margar_dis-5 konur_fla-3 höfðu_fla-4 dýrlega_fla-5 atferð_fla-6 sem_fla-7 gull_fla-8 og_fla-9 silfur_fla-10 eru_fla-11 gjörsemar_fla-12,_fla-13 voru_fla-14 af_fla-15 þvara_fla-16 
+Á_adv-4 góðu_amo-3 gleri_roo-0 er_orp-4 bæði_dis-7 gulls_nmo-7 litur_nsu-7 og_cc-9 silfurs_con-6 og_dis-11 allir_con-7 inir_con-7 fegurstu_amo-14 litir_nsu-11...........................................................................................

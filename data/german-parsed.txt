@@ -1,0 +1,111 @@
+sehr_adv-2 gute_amo-3 Beratung_roo-0,_cop-3 schnelle_amo-6 behebung_con-3 der_det-8 Probleme_obj-6,_con-3 so_adv-11 stelle_sen-3 ich_nsu-11 mir_iob-11 Kundenservice_obj-11 vor_adv-11.adv-11 
+die_det-2 Kosten_nsu-4 sind_cop-4 definitiv_roo-0 auch_dis-4 im_cas-8 in_cas-8 dem_det-8 Rahmen_obl-4.
+nette_amo-2 Gespräche_roo-0,_cop-2 klasse_amo-5 Ergebnis_con-2 
+ich_nsu-2 bin_roo-0 seit_dis-5 längerer_amo-5 zeit_obl-2 zur_cas-5 zu_cas-8 der_det-8 Behandlung_obl-2 verschiedenster_det-11 Leiden_nmo-8 "_xco-12 in_cas-15 der_det-15 Physiotherapieraxis_obl-8 "_con-8 Gaby_sen-2 
+ob_dis-4 bei_cas-4 der_dis-4 Terminvergabe_obl-4,_con-4 den_det-7 Behandlungsräumen_obl-13 oder_cc-12 den_det-12 individuell_adv-11 zugeschnittenen_acl-12 Trainingsplänen_con-7 sind_cop-15 alle_det-15 Mitarbeiter_roo-0 überaus_dis-15 
+sauberkeit_nsu-11,con-1 Ordnung_con-1 und_cc-5 Freundlichkeit_con-1 brauche_roo-0 ich_nsu-6 hier_adv-6 nicht_adv-11 zu_adv-11 erwähnen_xco-6,_adv-11 denn_mar-15 das_nsu-15 gehört_adv-11 für_adv-15 mich_obl-15 zum__xco-15 zu_cas-17 
+physiotherapie_nsu-2 ist_fla-1 zwar_fla-2 oftmals_fla-3 auch_fla-4 anstrengend_fla-5 aber_fla-6 in_fla-7 dieser_fla-8 Umgebeung_fla-9 freut_fla-10 man_fla-11 sich_fla-12 auf_fla-13 jede_fla-15 Minute_fla-16 Behandlung_fla-17 freut_fla-18 man_fla-19 sich_f
+das_det-3 nächste_amo-3 mal_nsu-4 rief_roo-0 ich_nsu-4 extra_adv-4 vorher_adv-4 an_adv-4,xco-4 um_adv-14 enn_det-12 Termin_obj-14 zu_adv-14 vereinbaren_xco-4 damit_mar-15 der_det-18 Konditor_nsu-15 auch_dis-15 Zeit_obl-15 
+eine_det-2 Stunde_obj-4 später_adv-4 gab_roo-0 man_nsu-4 uns_iob-4 dann_adv-4 endlich_adv-4 einen_det-10 Tisch_obj-4,_obl-17 der_nsu-17 allerdings_adv-17 noch_adv-17 nicht_adv-17 einmal_adv-17 abgeräumt_xco-18 war_aux-17._xco-18 
+die_det-2 Bedienung_nsu-3 verschwand_roo-0 sofort_adv-3 wieder_adv-3 und_cc-7 kam_con-3 auch_dis-7 erstmal_adv-7 nicht_dis-11 mehr_adv-7... 
+nach_cas-5 fast_adv-5 einer_det-5 weiteren_amo-5 Stunde_obl-5,obl-5 nachdem_mar-12 sich_obj-12 mein_det-10 Verlobter_nsu-12 mehrmals_adv-12 erkundigt_adv-6 und_cc-14 zuletzt_con-12 sogar_adv-14 beschwert_acl-17 hatte_obj-14 kam_roo-0 
+jemand_nsu-2 unfreundlicheres_roo-0 ist_aux-11 mir_obl-11 in_cas-8 meinem_det-8 ganzen_amo-8 leben_obl-11 noch_adv-11 nicht_adv-11 begegnet_sen-2!adv-11 
+das_nsu-4 war_roo-0 der_det-4 punkt_nsu-2 an_cas-6 dem_obl-9 wir_nsu-9 hätten_adv-9 gehen_adv-4 sollen_dis-9.... 
+aber_dis-13 da_mar-13 es_nsu-13 mittlerweile_adv-8 nur_dis-8 noch_fix-5 3_num-8 Wochen_adv-8 bis_cas-8 zur_cas-12 zu_cas-12 der_det-12 Hochzeit_obl-13 waren_adv-8 und_mar-13 wir_nsu-13 keinen_det-17 anderen_det-17 Konditor_obj-13 führen_par-8 
+das_roo-0 einzig_amo-3 positive_fla-1 was_fla-2 man_fla-3 sagen_fla-4 kann_fla-5 war_fla-6 das_fla-7 sie_fla-8 geschmeckt_fla-9 hat_fla-10,_fla-11 aber_fla-13 rein_fla-14 optisch_fla-15 hätte_fla-16 es_fla-17 mein_fla-18 
+für_orp-6 eine_det-4 300_num-4 euro_num-6 teuere_amo-6 Torte_roo-0 von_orp-6 einem_det-10 angeblichen_amo-10 meisterkonditor_orp-6 war_adv-15 das_nsu-15 einfach_adv-15 nur_dis-15 furchtbar_sen-6 --_dis-15 die_nsu-15 geliebte_acl-12 
+unser_det-2 Fazit_roo-0 :_nsu-2 nie_adv-6 wieder_adv-6 Café_sen-2 Bleich_con-6!_con-6 
+ war_roo-0 das_det-4 erste_amo-4 Mal_nsu-1 mit_cas-4 Ueberzeugung_nmo-4 im_cas-9 in_cas-9 dem_det-9 Waschsalon_obl-1,xco-1 die_det-16 ich_nsu-16 vorher_adv-15 immer_adv-15 gemieden_acl-16 habe_obj-16,obj-16 da_mar-16 ein_det-16 gemieden_acl-16 habe_obj-
+ich_nsu-3 wurde_iob-3 überzeugt_roo-0 dass_mar-16 Waschsalons_nsu-16 auch_dis-16 einfach_adv-16 prima_con-8 hell_con-8 sauber_con-8 und_cc-15 freundlich_xco-17 sein_cop-16 können_con-16.cco-3 
+dienstleistung_nsu-7 und_cc-3 Beratung_con-1 wird_nsu-7 wirklich_adv-7 gross_adv-7 geschrieben_roo-0 :-)_adv-7 
+fachlich_com-2 kompetant_com-6 sehr_adv-5 gute_acl-6 Beratung_roo-0 und_cc-10 ein_det-10 freundliches_amo-10 Team_con-6.con-6 
+beiden_det-2 Zahnärzten_obl-3 verdanke_roo-0 ich_nsu-3 einen_det-7 neuen_amo-7 Biss_obj-3 und_cc-12 dadurch_adv-10 endlich_con-3 keine_det-12 Rückenschmerzen_con-7 mehr_adv-12... 13 
+vielen_roo-0 Dank_fla-1!_fla-2 
+gutbürgerliche_amo-2 küche_roo-0 von_cas-5 einem_det-5 Koch_obl-1 der_nmo-8 sein_det-8 Handwerk_obj-10 noch_adv-10 vesteht_acl-2 
+der_det-2 Firma_nsu-3 liegt_roo-0 genau_adv-3 am_adv-3 an_cas-7 dem_det-7 Ortseingang_obl-3._adv-3 
+ist_roo-0 einer_det-5 der_nmo-5 besten_amo-5 Restaurationsbetriebe_obj-8 den_obj-8 ich_nsu-9 finden_xco-9 konnte_obl-9._cop-9 
+top_det-2 ūrdhvam_roo-0 
+hier_adv-2 gibt_roo-0 es_nsu-2 die_det-6 beste_amo-6 Wurst_obj-2 in_cas-9 ganz_det-9 Thüringen_obl-2!_cc-9!_fix-10 
+sind_cop-6 seit_cas-5 vielen_det-5 Jahren_obl-6 Mandanten_acl-1 der_nmo-8 Rechtsanwälte_nmo-6 ruland_nmo-6 und_cc-11 wurden_con-6 immer_adv-13 optimal_xco-13 in_cas-9 bei_cas-9 unseren_det-16 Probleme_obl-13 
+nett_roo-0 freundlich_con-1 und_cc-6 sehr_adv-6 kompetent_con-1 
+fühlte_roo-0 mich_obj-1 sehr_adv-5 gut_adv-5 aufgehoben_xco-1.adv-1 
+nicht_adv-3 nur_dis-3 anmaßend_roo-0 und_cc-3 menschenverachtend_con-3 sondern_con-3 auch_dis-3 arrogant_con-3 und_cc-9 absolut_adv-9 nicht_adv-13 medizinsch_con-3 und_cc-13 fachlich_con-3!orp-16 
+achtung_nsu-3 da_adv-3 macht_roo-0 wohl_dis-3 jemand_nsu-3 auf_cas-8 die_det-8 Kosten_obl-3 der_nmo-10 Patienten_nmo-8 seine_det-14 ganz_adv-13 eigene_amo-14 Politik_obj-3 oder_cc-18 besser_adv-17 gesagt_acl-18 show_con-14! 
+adv-5 ein_obj-5 wenig_adv-5 veschrickt_acl-3 durch_cas-3 die_det-10 eine_det-10 schlechte_amo-10 Bewertung_obj-5 hier_adv-5 auf_cas-14 diser_det-14 seite_obl-5,_xco-16 traute_roo-0 mich_obj-16 allerdings_adv-16 
+der_det-2 Friseursalon_nsu-10 ist_aux-10 mit_cas-6 dem_det-6 Bus_obl-10 sehr_adv-10 gut_xco-10 zu_adv-10 erreichen_roo-0.... 
+terminfestlegung_roo-0 am_dis-4 an_fix-1 dem_det-4 Vortag_obl-1 war_sen-1 kein_det-7 Problem_nsu-5 ;_con-5 keine_det-10 Wartezeiten_con-7.con-5 
+die_det-2 mitarbeiter_nsu-5 waren_cop-5 sehr_adv-5 freundlich_roo-0 und_cc-8 es_nsu-8 herrschte_sen-5 eine_det-11 nette_amo-11 stimmung_obj-8 im_cas-15 in_cas-15 dem_det-15 ganzen_det-15 salon_obl-8.cop-15 
+das_det-2 haareschneiden_nsu-3 war_dis-3 auch_dis-3 schnell_adv-6 erledigt_acl-2 im_dis-10 in_dis-10 dem_det-10 Anschluss_obl-11 gab_sen-3 es_nsu-11 sogar_fix-12 einen_det-15 Kaffee_obj-11 --_dis-11 
+die_det-2 arbeiten_nsu-9 von_cas-4 Team_obj-3 vk_con-4 sind_nsu-9 nicht_dis-9 nur_dis-6 schön_roo-0 sondern_mar-12 sind_nsu-14 auch_dis-14 effektiv_con-9 und_cc-16 führen_con-9 zum_xco-16 dem_det-17 
+ zielorient_roo-0.xco-1 
+so_adv-2 profitiert_roo-0 nicht_dis-2 nur_dis-2 die_det-6 agentur_nsu-2,xco-2 sondern_orp-14 in_cas-11 erster_amo-11 Linie_orp-14 der_nmo-13 Kunde_nmo-11.orp-14 
+hier_adv-3 ist_cop-3 Marketing_roo-0 enne_det-5 Investition_obj-3 die_nsu-9 sich_adv-9 auch_dis-9 auszahlt_dis-5!_dis-9 
+ War_roo-0 jetzt_adv-1 in_dis-1 fast_fix-4 allen_det-6 Tabledance_obl-1 Clubs_nmo-6 in_cas-9 München_con-6 wobei_adv-12 ich_nsu-12 sagen_adv-1 muss_cop-12 dass_mar-13 dass_mar-13 dass_dis-13 der_det-18 neu_adv-18 eröffnete_acl-16 Laden_nsu-13 
+die_det-2 preise_nsu-4 sind_cop-4 ok_amo-2 und_cc-7 die_det-7 frauen_con-4 mindestens_adv-9 genau_adv-9 so_adv-11 hübsch_acl-7 wie_mar-11 im_dis-15 in_cas-15 dem_det-15 boobs_obl-11,_orp-15 wo_orp-15 die_det-18 preise_nsu-15 
+die_nsu-2 Stuttgarter_roo-0 volksbank_con-2 homepage_con-2 ist_cop-2 übsichtlich_sen-2 und_cc-6 vom_orp-12 von_orp-10 dem_det-10 Design_orp-12 erste_amo-12 Klasse_con-6.orp-12 
+finden_roo-0 kann_obj-1 man_nsu-2 wirklich_adv-1 alles_obj-1 was_obj-8 man_nsu-8 sucht_acl-5._cc-9 
+sollte_orp-1 man_nsu-8 was_det-6 üer_adv-8 die_det-6 navigation_obj-8 nicht_adv-8 finden_xco-1,_cco-1 so_adv-11 läßt_adv-11 sich_obl-11 ein_det-15 bestimmtes_amo-15 Bankprodukt_nsu-11 oder_cc-17 Information_con-15 
+eine_det-4 echt_adv-3 gelungene_roo-0 Seite_nsu-3... 
+ich_nsu-2 war_roo-0 schon_adv-2 in_dis-2 vielen_det-6 Cafés_obl-2 in_cas-10 aller_det-9 Herren_obl-2 länder_obl-2,_orp-9 aber_con-9 mit_cas-10 diesen_det-16 herrlichen_amo-16 Torten_con-10 und_cc-18 Kuchen_con-16 mit_orp-18 
+von_cas-1 aussen_fix-1 unscheinbar_roo-0 schlicht_con-3 und_cc-6 nicht_adv-11 in_cas-11 der_det-11 besten_amo-11 lage_obl-3,_con-3 aber_dis-12 die_det-15 kuchen_nsu-11 und_cc-17 torten_con-15 sind_cop-19 dafür_adv-19 umso_adv-19 
+das_det-2 Sushi_nsu-3 schmeckt_roo-0 immer_adv-3 hervorragend_acl-2 
+unbedingt_adv-3 mal_adv-3 ausprobieren_roo-0!_con-4!_con-4!_con-4 
+das_det-2 angebot_roo-0 ist_cop-2 reichlich_amo-2 unerwartet_con-4 vielsitig_con-4 
+die_det-2 bedienung_nsu-3 war_roo-0 sehr_adv-5 aufmerksam_acl-2 und_cc-8 schnell_con-5 
+dabei_adv-2 sitzt_roo-0 man_nsu-2 drinnen_adv-2 wie_mar-4 draußen_adv-4 in_cas-12 angenehm_adv-9 freundlicher_acl-12 und_cc-11 ruhiger_con-9 Umgebung_obl-2._con-4 
+ein_det-3 lohnendes_amo-3 Sonntagsvergnügen_roo-0!_dis-3 
+neubau_roo-0 für_cas-4 viele_det-4 Schulklassen_obl-1 vorhanden_sen-1 also_dis-5 alles_nsu-5 in_cas-11 Einwandfreiem_amo-11 Zustand_obl-5.con-5 
+ein_det-3 hervorragender_acl-3 schulgarten_roo-0 in_orp-3 dem_obl-12 die_det-7 schüler_nsu-12 einiges_obj-12 über_adv-12 die_det-11 Natur_obj-12 lernen_acl-3 können_con-3.................................................................................
+das_det-2 Bild_nsu-3 auf_roo-0 Google_nmo-2 maps_nsu-7 ist_aux-7 veraltet_sen-3 
+diese_det-2 schule_roo-0 ist_orp-2 schon_adv-3 lange_adv-3 keine_det-7 Bauststelle_orp-2 mehr_adv-3!orp-7 
+positiv_amo-4 :_roo-0 Schöne_amo-4 Zimmer_nsu-2,_con-2 alles_det-4 sauber_con-2 freundliches_con-7 personal_obl-9,con-7 gut_adv-13 eingerichtet_con-7.con-7 
+im_orp-3 in_cas-3 dem_det-3 april_orp-5 09_num-4 hat_roo-0 mir_iob-5 meine_det-8 frau_nsu-5 zum_orp-3 zu_cas-11 dem_det-11 geburtstag_orp-5 ein_det-13 Seminar_con-5 im_orp-13 in_cas-14 dem_det-15 Hotel_orp-13 
+die_det-2 Unterbringung_nsu-6 im_dis-5 in_cas-5 dem_det-5 Doppelzimmer_obl-11 hat_dis-11 sie_nsu-11 mir_iob-11 gleich_adv-11 mit_adv-11 dazugeschenkt_roo-0 als_adv-14 überraschung_acl-7.adv-11 
+leider_roo-0 ist_cop-1 das_det-4 Seminarhotel_nsu-1 eine_det-6 Entäuschung_sen-1.
+die_det-2 Zimmer_nsu-5 sind_cop-5 total_adv-5 heruntergekommen_roo-0 ungepflegt_con-5 veraltete_con-5 Einrichtung_con-5,_con-5 harte_acl-13 Matrazen_con-5 und_cc-15 verwohnt_con-5.con-5 
+das_det-2 hotel_nsu-3 war_roo-0 wohl_dis-3 mal_fix-4 ein_det-7 Sanatorium_nmo-2 oder_cc-9 Krankenhaus_con-7 und_cc-13 die_det-12 Zimmer_nsu-16 wurden_cop-16 nahezu_adv-16 unverändert_xco-16 übernommen_con-7._con-15._con-15 
+adv-10 sich_adv-10 so_dis-10 eine_det-5 Unterkunft_nsu-10 als_adv-8 3_num-8 Sterne_acl-5 Unterkunft_obj-10 bezeichnen_adv-11 darf_roo-0 ist_cop-13 mir_obl-13 ein_det-15 Rätsel_nsu-13.obl-13 
+wir_nsu-8 haben_acl-7 uns_iob-8 übrigens_adv-8 3_num-6 verschiedene_acl-7 Zimmer_obj-8 angesehen_acl-1 und_cc-13 alle_nsu-13 waren_cop-13 eine_det-13 Katastrophe_roo-0.cop-13 
+ wir_nsu-2 haben_roo-0 uns_obj-2 mehrfach_adv-2 beim_cas-7 bei_cas-7 dem_det-7 Personal_obl-8 beschwert_xco-8 das_det-11 Bett_nsu-8 wurde_con-2 zwar_adv-12 mit_cas-17 einer_det-17 weiteren_amo-17 matraze_obl-8 
+bei_cas-3 der_det-3 abreise_obl-4 kam_roo-0 dann_adv-4 noch_dis-4 die_det-9 böse_amo-9 Überraschung_nsu-4 in_cas-11 form_obl-4 von_cas-15 extrem_adv-14 übehöhten_acl-15 Übernachtungspreisen_obl-9._con-11 
+nach_cas-3 langem_amo-3 Suchen_adv-7 endlich_adv-7 den_det-6 richtigen_obj-7 gefunden_roo-0! par-7 
+ich_nsu-2 bin_roo-0 seit_dis-6 fast_fix-4 5_num-6 Jahren_adv-2 auf_cas-6 der_det-9 Suche_adv-2 nach_cas-9 jemanden_obl-12 gewesen_acl-1,_con-2 der_nsu-15 mich_obj-15 nicht_adv-15 übers_cas-15 über_cas-19 das_det-19 Ohr_obl-15 
+und_dis-3 dann_adv-3 bin_orp-6 ich_roo-0 auf_cas-6 Empfehlung_obl-3 einer_det-10 sehr_adv-9 guten_acl-10 Freundin_nmo-6 nach_cas-12 Dortmund_obl-13 gefahren_adv-4 um_adv-13 mich_obl-13 dort_adv-13 von_cas-18 Herrn_obl-13 Knauf_amo-18 gefahren_adv-4 um_adv
+vielen_det-3 vielen_con-1 Dank_roo-0 für_adv-3 die_det-8 super_cas-8 prafessionelle_amo-8 arbeit_obj-3._cc-9 
+ich_nsu-2 bin_roo-0 seit_cas-5 3_num-5 Sitzungen_obl-2 in_cas-7 Behandlung_obl-2 und_cc-10 ich_nsu-10 fühle_con-2 mich_obj-10 super_adv-14 gut_adv-14 aufgehoben_xco-10.adv-10 
+eine_det-4 super_adv-3 professionelle_amo-4 Beratung_nmo-4 und_cc-6 Risikoaufklärung_con-4,xco-11 die_nsu-11 nicht_adv-11 darauf_adv-11 abzielt_roo-0 das_det-13 meiste_nsu-16 Geld_obj-16 zu_adv-16 machen_xco-11 so_dis-16 so_dis-16 
+das_det-2 team_nsu-3 ist_cop-3 super_adv-5 nett_acl-2,_adv-3 ich_nsu-8 fühle_par-3 mich_obj-8 sehr_adv-12 gut_adv-12 aufgeboben_xco-8 und_cc-15 der_nsu-15 Wohlfühlfaktor_nsu-16 ist_cop-16 zu_adv-16 100_num-19 %_obl-16 gehen_par-3 
+ich_nsu-4 bin_obl-4 sehr_adv-4 zufrieden_roo-0 
+auf_cas-3 jeden_det-3 Fall_obl-5 zu_adv-5 empfehlen_roo-0!_dis-5 
+besondrs_roo-0 die_det-4 professionelle_amo-4 Beratung_nsu-1 und_cc-9 die_det-9 individuell_adv-8 angepassten_acl-9 Behandlungen_con-4 enstrechen_sen-1 dem_obl-10 was_obj-10 ich_nsu-10 unter_cas-11 bester_det-16 Dienstleiche_acl-11 beginnen_acl-11 
+meine_det-2 Erfahrung_nsu-3 sagt_roo-0 :_cco-3 Sehr_adv-7 zu_adv-7 empfehlen_xco-3.xco-3 
+dortmunds_nmo-3 erste_amo-3 Wahl_roo-0 für_adv-3 dauerhafte_amo-6 Haarentfernung_obj-4 und_cc-8 Wellness_con-6.con-6 
+der_det-3 mechanische_amo-3 Trackpad_nmo-5 -_xco-9 Klick_nsu-9 meines_nmo-7 Macbook_nmo-5 pro_nmo-8 funktionierte_roo-0 eines_det-11 Tages_obl-9 nicht_adv-13 mehr_adv-9......................................................................................
+das_nsu-2 Personal_roo-0 ist_cop-2 sehr_adv-5 nett_adv-2 und_cc-7 versuchen_sen-2 einm_iob-7 gleich_adv-11 zu_adv-11 helfen_xco-7.adv-7 
+sehr_adv-2 beruhigend_adv-10 ein_det-5 solches_det-5 Geschäft_nsu-10 in_cas-8 der_det-8 nähe_obl-10 zu_adv-10 haben_roo-0..._cop-10 
+ Was_nsu-4 für_orp-4 eine_det-4 Bruchbude_roo-0.._cc-4 
+das_det-2 Hotel_nsu-3 sah_roo-0 aus_adv-3 als_mar-6 wäre_fla-5 es_fla-6 kurz_fla-7 davor_fla-8 abgerissen_fla-9 zu_fla-10 werden_fla-11.fla-12 
+leider_adv-10 habe_dis-10 ich_nsu-10 die_det-7 anderen_det-7 beiden_det-7 Bewertungen_obj-10 zu_adv-10 spät_adv-10 gesehen_roo-0 und_cc-12 gebucht_con-10 da_mar-12 ich_nsu-12 dringend_adv-12 ein_det-18 Hotel_obl-16 in_cas-18 
+nun_adv-2 weis_roo-0 ich_nsu-2 warum_adv-2.adv-2 
+kurze_amo-2 Wartezeiten_nsu-9 und_cc-4 Arbeiten_con-2 die_det-8 selbst_adv-9 andere_det-8 Zahnärzte_obj-9 bewundern_roo-0._cop-9 
+leider_roo-0 nur_dis-1 Privat_acl-4 Patienten_nsu-1... 
+pizza_nsu-2 hat_roo-0 die_det-4 qualtät_obj-2 eines_det-7 besseren_amo-7 Tiefkühlproduktes_nmo-4 aus_cas-10 dem_det-10 Supermarkt_obl-2._cop-10 
+der_det-2 salat_nsu-8 ist_aux-8 mit_cas-7 ennem_det-7 mayonnaiselastigem_amo-7 Dressing_obl-8 verunstaltet_roo-0 
+die_det-2 Pizzen_nsu-3 schmecken_roo-0 nicht_adv-3 wirklich_adv-3 gut_dis-8 das_nsu-8 meiste_dis-8 scheint_adv-14 aus_adv-14 der_det-12 Dose_obl-14 zu_adv-14 kommen_sen-3....................................................................................
+im_obl-12 in_cas-1 dem_det-4 italienischen_amo-4 Restaurant_obl-5 Pinnocchio_nmo-4 kann_aux-12 man_nsu-12 nicht_adv-12 nur_dis-12 wunderbar_amo-11 Pizza_obj-12 essen_roo-0,_con-12 auch_dis-12 alle_det-16 anderen_con-11 Geniessen_dis-12 
+die_det-2 preise_nsu-4 sind_cop-4 akzeptabel_roo-0 und_cc-4 für_orp-4 die_det-8 gegend_orp-4 absolut_adv-10 üblich_con-4.con-4 
+so_adv-6 ist_dis-6 das_det-4 Restaurant_nsu-6 auch_dis-6 familienfreundlich_roo-0 
+es_nsu-2 bietet_roo-0 nette_amo-4 atmosphäre_obj-2 und_cc-4 enne_det-4 motivierte_con-4 und_cc-10 zuvorkommende_con-7 Bedienung_con-4._cc-11 
+patient_nsu-2 trägt_roo-0 seit_cas-5 3_num-5 Monaten_obl-2 Kontaktlinsen_obj-2._cc-2 
+ Wünscht_roo-0 Untersuchung_obj-1 im_cas-5 in_cas-5 dem_det-5 Hinblick_obl-1 auf_cas-7 Gegenanzeigen_obj-5 und_cc-9 Hinderungsgründe_con-5 für_cas-12 das_det-12 Tragen_obj-12 von_cas-14 Kontaktlinsen_obl-12.............................................
+ wünscht_roo-0 untersuchung_nsu-1 auf_cas-3 evtl_dis-3 bereits_adv-7 aufgetretene_acl-8 Schädigung_con-2 des_nmo-10 Auges_nmo-8.cop-8 
+diesen_det-2 Luxus_obj-3 gab_roo-0 es_nsu-3 leider_adv-3 nicht_adv-3 für_orp-10 die_det-10 wartenden_acl-10 Patienten_orp-10.orp-10 
+sofort_adv-4 wurde_nsu-4 klar_roo-0 dass_mar-8 mehr_adv-8 Patienten_nsu-8 warteten_adv-4 als_dis-9 stühle_nsu-15 im_dis-15 in_cas-14 dem_det-14 Wartezimmer_obl-15 vorhanden_xco-16 waren_cop-15.............................................................
+daher_adv-2 haben_dis-12 hier_adv-2 immer_fix-3 die_det-7 jüngeren_amo-7 Patienten_nsu-12 den_det-10 älteren_amo-10 Patienten_iob-12 Platz_obj-12 gemacht_roo-0 damit_mar-12 diese_nsu-12 bei_cas-10 den_det-10 Temperaturen_obl-12 
+vielleicht_dis-5 war_dis-5 das_nsu-5 mein_det-5 Fehler_roo-0?_dis-5 
+nach_cas-5 weiteren_amo-4 30_num-4 Minuten_obl-4 Wartezeit_adv-6 durfte_roo-0 ich_nsu-6 nun_adv-6 endlich_xco-6 zu_adv-6 Frau_iob-17 dr.nmo-12 schüler_nmo-12 und_cc-17 meine_det-16 Frage_obj-17 äußern_sen-6.............................................
+nun_adv-2 kam_roo-0 der_det-4 Hammer_nsu-2 :_xco-2 nacdem_mar-12 ich_nsu-11 das_det-9 Wort_obj-11 Kontaktlinsen_xco-11 erwähnt_acl-5 hatte_adv-2,_adv-14 fiel_sen-2 bei_adv-14 Frau_obl-14 dr._nmo-16 eine_det-16 Krankheit_obl-14 
+sie_nsu-2 polterte_roo-0 los_adv-2 :xco-2 "_adv-10 da_adv-10 müssen_adv-10 sie_nsu-10 dahin_adv-10 gehen_par-4,_adv-10 wo_adv-17 sie_nsu-17 die_det-15 linsen_obj-16 gekauft_xco-17 haben_adv-10!_adv-10 
+ Wir_nsu-2 Augenärzte_nmo-1 können_obj-7 nicht_adv-7 immer_adv-7 umsonst_adv-7 beraten_roo-0!_sen-7 "_sen-7 
+ich_nsu-2 versuchte_roo-0,adv-2 Sie_iob-2 darüber_adv-6 aufzuklären_xco-2,adv-2 dass_mar-12 ich_nsu-12 keine_det-11 Kontaktlinsenberatung_obj-12 wünschte_adv-2 sondern_con-12 eine_det-16 Untersuchung_nsu-13 meiner_nmo-16 
+leider_adv-2 kam_roo-0 ich_nsu-2 überhaupt_adv-2 nicht_adv-2 zu_adv-2 Wort_obj-2,xco-2 sondern_dis-12 frau_nsu-12 dr.fla-10 dozierte_adv-2 mit_cas-12 einer_det-15 mir_iob-12 bis_dis-15 dahin_adv-18 unbekannten_acl-15 Arroganz_obj-12 

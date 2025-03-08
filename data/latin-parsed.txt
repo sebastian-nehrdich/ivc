@@ -1,0 +1,161 @@
+liber_roo-0 genrationis_nmo-1 Iesu_sen-1 Christi_fla-3 filii_fla-4 David_fla-5 filii_fla-6 Abraham_fla-7 
+abraham_nsu-2 genuit_roo-0 Isaac_xco-2 
+isaac_nsu-3 autem_adv-3 genuit_roo-0 Iacob_con-1 
+iacob_obj-3 autem_adv-3 genuit_roo-0 Iudam_obj-3 et_cc-6 fratres_con-4 eius_nmo-6 
+iudas_nsu-3 autem_adv-3 genuit_roo-0 Phares_con-1 et_cc-6 Zara_con-1 de_cas-6 Thamar_con-1 
+phares_obj-3 autem_adv-3 genuit_roo-0 esrom_con-1 
+esrom_obj-3 autem_adv-3 genuit_roo-0 Aram_con-1 
+aram_nsu-3 autem_adv-3 genuit_roo-0 Aminadab_con-1 
+aminadab_nsu-3 autem_adv-3 genuit_roo-0 naasson_nsu-3 
+naasson_nsu-3 autem_adv-3 genuit_roo-0 salmon_con-1 
+salmon_nsu-3 autem_adv-3 genuit_roo-0 Booz_xco-3 de_cas-6 Rachab_nmo-1 
+booz_obj-3 autem_adv-3 genuit_roo-0 Obed_acl-1 ex_dis-4 Ruth_con-1 
+obed_dis-3 autem_adv-3 genuit_roo-0 Iesse_nsu-3 
+iesse_nsu-3 autem_adv-3 genuit_roo-0 David_dis-3 regem_obj-3 
+david_dis-4 autem_adv-4 rex_nsu-4 genuit_roo-0 Salomonem_obj-4 ex_cas-7 ea_obl-4 quae_det-10 fuit_acl-5 Uriae_nsu-9 
+salomon_nsu-3 autem_adv-3 genuit_roo-0 Roboam_xco-3 
+roboam_obj-3 autem_adv-3 genuit_roo-0 Abiam_con-1 
+abia_nsu-3 autem_adv-3 genuit_roo-0 Asa_con-1 
+asa_nsu-3 autem_adv-3 genuit_roo-0 Iosaphat_fla-1 
+iosaphat_nsu-3 autem_adv-3 genuit_roo-0 Ioram_obj-3 
+ioram_obj-3 autem_adv-3 genuit_roo-0 Oziam_con-1 
+ozias_nsu-3 autem_adv-3 genuit_roo-0 Ioatham_xco-3 
+ioatham_obj-3 autem_adv-3 genuit_roo-0 Achaz_dis-3 
+achaz_nsu-3 autem_adv-3 genuit_roo-0 Ezechiam_det-1 
+ezechias_nsu-3 autem_adv-3 genuit_roo-0 Manassen_obj-3 
+manasses_nsu-3 autem_adv-3 genuit_roo-0 Amon_xco-3 
+amon_nsu-3 autem_adv-3 genuit_roo-0 Iosiam_obj-3 
+iosias_nsu-3 autem_adv-3 genuit_roo-0 Iechoniam_obj-3 et_cc-4 fratres_con-4 eius_nmo-6 in_cas-9 transmigratione_obl-3 Babylonis_con-3 
+et_dis-3 post_cas-3 transmigrationem_obl-6 Babylonis_nsu-6 Iechonias_fla-4 genuit_roo-0 Salathihel_fla-5 
+salathihel_xco-3 autem_adv-3 genuit_roo-0 Zorobabel_con-1 
+autem_adv-3 genuit_roo-0 Abiud_xco-3 
+abiud_roo-0 autem_adv-1 genuit_con-1 Eliachim_obj-3 
+eliachim_obj-3 autem_adv-3 genuit_roo-0 Azor_dis-3 
+azor_adv-3 autem_adv-3 genuit_roo-0 saddoc_con-1 
+saddoc_nsu-3 autem_adv-3 genuit_roo-0 Achim_det-1 
+achim_nsu-3 autem_adv-3 genuit_roo-0 Eliud_dis-3 
+eliud_obj-3 autem_adv-3 genuit_roo-0 Eleazar_con-1 
+eleazar_nsu-3 autem_adv-3 genuit_roo-0 Matthan_xco-3 
+matthan_nsu-3 autem_adv-3 genuit_roo-0 Iacob_obj-3 
+iacob_nsu-3 autem_adv-3 genuit_roo-0 Ioseph_con-1 virum_obj-3 Mariae_fla-5 de_fla-6 qua_fla-7 natus_fla-8 est_fla-9 Iesus_fla-10 qui_fla-11 vocatur_fla-12 christus_fla-13 
+omnes_roo-0 ergo_fla-1 generationes_fla-2 ab_fla-3 Abraham_fla-4 usque_fla-5 ad_fla-6 David_fla-7 generationes_fla-8 quattuordecim_fla-9 
+et_dis-3 a_adv-3 David_roo-0 usque_dis-3 ad_cas-6 transmigrationem_obl-3 Babylonis_sen-3 generationes_nsu-7 quattuordecim_amo-8 
+et_dis-4 a_adv-3 transmigratione_adv-4 Babylonis_roo-0 usque_dis-4 ad_cas-7 Christum_con-4 generationes_nsu-4 quattuordecim_amo-8 
+christi_roo-0 autem_adv-1 generatio_nsu-1 sic_adv-5 erat_sen-1 
+cum_mar-3 esset_aux-3 desponsata_adv-10 mater_nsu-3 eius_nmo-4 maria_nsu-9 ioseph_con-6 antequam_mar-9 convenirent_con-3 inventa_roo-0 est_aux-10 in_cas-13 utero_obl-10 habens_adv-10 de_adv-14 spirim_obl-14 
+ioseph_roo-0 autem_fla-1 vir_fla-2 eius_fla-3 cum_fla-4 esset_fla-5 iustus_fla-6 et_fla-7 nollet_fla-8 eam_fla-9 traducere_sen-1 voluit_fla-10 occulte_fla-12 dimittere_fla-13 eam_fla-14 
+haec_adv-10 autem_dis-3 eo_obl-10 cogitante_acl-3 ecce_dis-10 angelus_nsu-10 domini_nmo-9 in_cas-9 somnis_obl-10 apparuit_roo-0 ei_obj-10 dicens_acl-6 
+ioseph_roo-0 fili_fla-1 David_fla-2 noli_fla-3 timere_fla-4 accipere_fla-5 Mariam_fla-6 coniugem_fla-7 tuam_fla-8 
+śuod_nsu-5 enim_adv-5 in_cas-2 ea_obj-5 natum_roo-0 est_orp-6 de_cas-8 spiritu_orp-6 sancto_amo-8 est_sen-6 
+pariet_roo-0 autem_dis-1 filium_obl-1 
+et_dis-2 vocabis_roo-0 nomen_obj-2 eius_nmo-3 Iesum_cco-2 
+ipse_nsu-4 enim_obj-4 salvum_amo-5 faciet_roo-0 populum_nmo-2 suum_con-3 a_adv-8 peccatis_obl-4 eorum_nmo-5 
+hoc_det-3 autem_adv-3 totum_xco-4 factum_con-3 est_aux-3 ut_mar-7 adimpleretur_par-3 id_det-8 quod_nsu-10 dictum_con-3 est_aux-10 a_adv-13 Dom-13 per_cas-13 prophetam_obj-7 dicentem_acl-15 
+ecce_dis-5 virgo_nsu-5 in_cas-4 utero_obl-5 habebit_roo-0 et_mar-7 pariet_con-5 filium_obj-7 
+et_dis-2 vocabunt_roo-0 nomen_obj-2 eius_nmo-3 Emmanuhel_xco-2 quod_nsu-8 est_fla-6 interpretatum_fla-7 Nobis_fla-8 cum_fla-9 Deus_fla-10 
+exsurgens_adv-6 autem_adv-1 Ioseph_nsu-6 a_adv-5 somno_obl-1 fecit_roo-0 sicut_adv-6 praecepit_sen-6 ei_det-8 angelus_nsu-8 domini_nmo-10 et_dis-13 accepit_con-8 coniugem_obj-13 suam_amo-14 
+et_dis-3 non_adv-3 cognoscebat_roo-0 eam_obj-3 donec_mar-6 peperit_con-3 filium_dis-6 suum_det-7 primogenitum_acl-7 
+et_dis-2 vocavit_roo-0 nomen_obj-2 eius_nmo-3 Iesum_nmo-3 
+cum_dis-4 ergo_adv-3 natus_roo-0 esset_cop-4 Iesus_sen-4 in_cas-5 Bethleem_fla-6 Iudaeae_fla-7 in_fla-8 diebus_fla-9 Herodis_fla-10 regis_fla-11 ecce_fla-12 magi_fla-13 ab_fla-14 oriente_fla-15 venerunt_fla-16 
+ubi_adv-2 est_roo-0 qui_nsu-4 natus_fla-3 est_fla-4 rex_fla-5 Iudaeorum_fla-6 
+vidimus_roo-0 enim_dis-1 stellam_obj-1 eius_nmo-3 in_cas-6 oriente_obl-1 et_cc-8 venimus_con-1 adorare_xco-1 eum_obj-9 
+audiens_acl-4 autem_fla-1 Herodes_fla-2 rex_fla-3 turbatus_fla-4 est_fla-5 et_fla-6 omnis_fla-7 hierosolyma_fla-8 cum_fla-9 illo_fla-10 
+et_dis-2 congregans_adv-9 omnes_det-4 principes_obj-2 sacerdotum_nmo-4 et_dis-9 scribas_obj-9 populi_nmo-7 sciscitabatur_roo-0 ab_cas-11 eis_obl-14 ubi_adv-14 Christus_adv-14 nasceretur_sen-9 
+at_adv-3 illi_nsu-3 dixerunt_roo-0 ei_iob-3 
+in_cas-3 Bethleem_roo-0 Iudaeae_nsu-2 
+sic_dis-3 enim_obj-3 scriptum_roo-0 est_aux-3 per_adv-3 prophetam_nmo-2 
+et_dis-7 tu_fla-1 Bethleem_fla-2 terra_fla-3 Iuda_fla-4 nequaquam_fla-5 minima_fla-6 es_fla-7 in_fla-8 principibus_fla-9 Iuda_fla-10 
+ex_cas-2 te_obl-4 enim_adv-4 exiet_roo-0 dux_nsu-4 qui_nsu-7 reget_con-4 populum_obj-7 meum_det-8 Israhel_sen-4 
+tunc_adv-7 Herodes_nsu-7 clam_adv-7 vocatis_acl-5 magis_con-4 diligenter_con-4 didicit_roo-0 ab_cas-10 eis_det-5 tempus_obl-7 stellae_nmo-10 quae_nsu-13 apparuit_acl-11 eis_obl-13 
+et_dis-2 mittens_adv-6 illos_obj-2 in_cas-3 Bethleem_obl-6 dixit_roo-0 
+ite_roo-0 et_cc-3 interrogate_con-1 diligenter_adv-3 de_cas-6 puero_obl-3 
+et_dis-3 cum_dis-3 inveneritis_adv-4 renuntiate_roo-0 mihi_obl-4 ut_adv-10 et_con-6 ego_nsu-9 veniens_voc-10 adorem_sen-4 eum_obj-10 
+śui_nsu-5 cum_mar-3 audissent_adv-5 regem_obj-3 abierunt_con-3 et_cc-8 ecce_dis-8 stella_con-3 quam_obj-10 viderant_con-3 in_cas-12 oriente_obl-13 antecedebat_roo-0 eos_obj-13 usque_adv-13 dum_mar-17 veniens_voc-13 
+videntes_roo-0 autem_adv-1 stellam_obj-4 gavisi_con-1 sunt_cop-6 gaudio_obl-4 magno_amo-6 valde_con-6 
+et_mar-4 intrantes_adv-4 domum_obj-4 invenerunt_roo-0 puerum_nmo-3 cum_cas-7 Maria_adv-4 matre_obl-4 eius_nmo-8 et_mar-12 procidentes_con-2 adoraverunt_con-4 eum_obj-12 
+et_dis-5 apertis_acl-3 thesauris_obl-5 suis_det-3 obtulerunt_roo-0 ei_iob-5 munera_obj-5 aurum_nmo-7 tus_con-8 et_cc-11 murram_con-8 
+et_dis-2 responso_obl-7 accepto_acl-5 in_cas-5 somnis_con-2 ne_adv-7 redirent_roo-0 ad_adv-7 Herodem_obl-7 per_adv-7 aliam_amo-12 viam_obj-13 reversi_sen-7 sunt_obl-13 in_cas-16 regionem_obl-13 suam_det-16 
+śui_det-5 cum_dis-3 recessissent_adv-7 ecce_dis-3 angelus_nsu-7 Domini_nmo-5 apparuit_roo-0 in_cas-9 somnis_obl-7 Ioseph_nmo-5 dicens_acl-10 
+surge_roo-0 et_cc-1 accipe_con-1 puerum_obj-3 et_cc-3 matrem_obj-3 eius_nmo-6 et_cc-9 fuge_con-1 in_cas-11 Aegyptum_obl-9 et_cc-9 esto_obj-9 ibi_obl-17 usque_dis-14 dum_dis-17 dicam_adv-17 tibi_iob-17 
+futurum_roo-0 est_cop-1 enim_dis-6 ut_dis-6 Herodes_nsu-6 quaerat_sen-1 puerum_obj-6 ad_adv-9 perdendum_acl-7 eum_det-7 
+śui_nsu-3 consurgens_acl-1 accepit_roo-0 puerum_obj-3 et_cc-4 matrem_con-4 eius_nmo-6 nocte_obl-3 et_cc-10 recessit_con-3 in_cas-12 Aegyptum_xco-10 
+et_dis-2 erat_roo-0 ibi_obl-2 usque_dis-2 ad_cas-6 obitum_obj-2 herodis_nmo-6 
+ut_adv-2 adimpleretur_roo-0 quod_nsu-4 dictum_fla-3 est_fla-4 a_fla-5 Dom-7 per_fla-6 prophetam_fla-7 dicentem_fla-8 
+ex_adv-3 Aegypto_obl-3 vocavi_roo-0 filium_obj-3 meum_con-4 
+tunc_adv-3 Herodes_nsu-3 videns_acl-2 quoniam_mar-5 inlusus_xco-6 esset_aux-5 a_adv-8 magis_obl-5 iratus_par-5 est_aux-9 valde_adv-13 et_dis-14 mittens_adv-14 occidit_con-3 omnes_obj-14 pueros_obj-14 
+tunc_adv-2 adimpletum_roo-0 est_aux-2 quod_nsu-5 dictum_con-2 est_aux-5 per_adv-5 Hieremiam_obl-5 prophetam_app-8 dicentem_acl-9 
+vox_nsu-4 in_cas-3 Rama_obl-4 audita_roo-0 est_aux-4 ploratus_dis-4 et_cc-8 ululatus_con-6 multus_con-6 
+rachel_roo-0 plorans_fla-1 filios_fla-2 suos_fla-3 et_fla-4 noluit_fla-5 consolari_fla-6 quia_fla-7 non_fla-8 sunt_fla-9 
+defuncto_acl-3 autem_dis-1 herode_obl-5 ecce_dis-5 apparuit_roo-0 angelus_nsu-5 Domini_nmo-3 in_cas-9 somnis_obl-5 Ioseph_nmo-3 in_cas-12 Aegypto_obl-13 dicens_adv-5 
+surge_roo-0 et_dis-1 accipe_con-1 puerum_obl-3 et_cc-3 matrem_obj-3 eius_nmo-6 et_cc-9 vade_con-1 in_cas-11 terram_obj-9 Israhel_adv-9 
+defuncti_roo-0 sunt_cop-1 enim_sen-1 qui_nsu-5 quaerebant_acl-3 animam_con-3 pueri_nmo-3 
+śui_nsu-3 surgens_adv-3 accepit_roo-0 puerum_obj-3 et_cc-4 matrem_con-4 eius_nmo-6 et_cc-9 venit_con-3 in_cas-11 terram_obj-9 Israhel_adv-9 
+audiens_roo-0 autem_fla-1 quod_fla-2 archelaus_fla-3 regnaret_fla-4 in_fla-5 Iudaea_fla-6 pro_fla-7 Herode_fla-8 patre_fla-9 suo_fla-10 timuit_fla-11 illo_fla-12 ire_fla-13 
+et_dis-2 admonitus_adv-5 in_cas-4 somnis_obl-2 secessit_roo-0 in_cas-7 partes_obj-5 Galilaeae_nmo-7 
+et_dis-3 veniens_adv-3 habitavit_roo-0 in_cas-5 civitate_obl-3 quae_fla-5 vocatur_fla-6 nazareth_fla-7 ut_fla-8 adimpleretur_fla-9 quod_fla-10 dictum_fla-11 est_fla-12 per_fla-13 prophetas_fla-14 quoniam_fla-15 
+in_cas-2 diebus_obl-5 autem_adv-2 illis_con-2 venit_roo-0 Iohannes_amo-7 Baptista_fla-6 praedicans_fla-7 in_cas-10 deserto_obl-8 Iudaeae_fla-10 et_fla-11 dicens_fla-12 
+paenitentiam_obj-2 agite_roo-0 
+adpropinquavit_roo-0 enim_det-3 regnum_nsu-1 caelorum_nmo-3 
+hic_roo-0 est_fla-1 enim_fla-2 qui_fla-3 dictus_fla-4 est_fla-5 per_fla-6 Esaiam_fla-7 prophetam_fla-8 dicentem_fla-9 
+vox_nsu-2 clamantis_roo-0 in_cas-4 deserto_obl-2 
+parate_roo-0 viam_obj-1 Domini_nmo-2 
+rectas_amo-3 facite_roo-0 semitas_obj-2 eius_nmo-3 
+ipse_nsu-4 autem_adv-4 Iohannes_fla-1 habebat_roo-0 vestimentum_obj-4 de_cas-7 pilis_obl-4 camelorum_nmo-7 et_cc-8 zonam_con-7 pelliciam_amo-10 circa_cas-7 lumbos_sen-4 suos_amo-13 
+esca_nsu-5 autem_adv-4 eius_nmo-1 erat_roo-0 lucustae_nmo-1 et_cc-7 mel_nsu-8 silvestre_amo-7 
+tunc_adv-2 exiebat_roo-0 ad_adv-2 eum_obl-2 Hierosolyma_sen-2 et_cc-5 omnis_acl-5 Iudaea_con-5 et_cc-11 omnis_amo-11 regio_con-5 circa_cas-13 Iordanen_obl-15 et_cc-15 baptizabantur_con-5 in_cas-13 Iordanen_obl-15 et_cc-15 baptizabantur_con-5 in_cas-13 Ior
+videns_voc-1 autem_adv-1 multos_obj-1 Pharisaeorum_nmo-3 et_cc-6 Sadducaeorum_con-4 venientes_con-3 ad_cas-9 baptismum_obl-7 suum_amo-9 dixit_roo-0 eis_iob-11 
+progenies_voc-4 viperarum_obj-4 quis_nsu-4 demonstravit_roo-0 vobis_obj-6 fugere_sen-4 a_adv-8 futura_amo-9 ira_obl-6 
+facite_roo-0 ergo_adv-1 fructum_obj-1 dignum_amo-3 paenitentiae_adv-1 
+et_dis-3 ne_adv-3 velitis_roo-0 dicere_sen-3 intra_adv-4 vos_obj-4 
+patrem_obj-2 habemus_roo-0 Abraham_xco-2 
+dico_roo-0 enim_obj-1 vobis_obl-1 quoniam_mar-5 potest_adv-1 Deus_nsu-5 de_cas-8 lapidibus_obl-5 istis_con-8 suscitare_sen-1 filios_obj-10 Abrahae_iob-10 
+iam_dis-7 enim_fla-1 securis_fla-2 ad_fla-3 radicem_fla-4 arborum_fla-5 posita_fla-6 est_fla-7 
+omnis_roo-0 ergo_amo-3 arbor_fla-1 quae_fla-3 non_fla-4 facit_fla-5 fructum_fla-6 bonum_fla-7 exciditur_fla-8 et_fla-9 in_fla-10 ignem_fla-11 mittitur_fla-12 
+ego_nsu-4 quidem_adv-4 vos_obj-4 baptizo_roo-0 in_cas-6 aqua_obl-4 in_orp-8 paenitentiam_con-4 
+śui_nsu-5 autem_adv-5 post_cas-4 me_obj-5 venturus_roo-0 est_cop-5 fortior_sen-5 me_obl-7 est_cop-7 cuius_nmo-7 non_adv-12 sum_con-7 dignus_adv-7 calciamenta_obj-15 portare_sen-5 
+ipse_nsu-3 vos_obj-3 baptizabit_roo-0 in_cas-5 Spiritu_obl-3 sancto_amo-5 et_cc-8 igni_con-5 
+cuius_nmo-2 ventilabrum_roo-0 in_cas-4 manu_obl-2 sua_det-4 
+et_dis-2 permundabit_roo-0 aream_obj-2 suam_amo-3 
+et_dis-2 congregabit_roo-0 triticum_obj-2 suum_amo-3 in_cas-6 horreum_amo-3 
+paleas_obj-3 autem_adv-3 conburet_roo-0 igni_obl-3 inextinguibili_acl-4 
+tunc_adv-2 venit_roo-0 Iesus_fla-2 a_fla-3 Galilaea_fla-4 in_fla-5 Iordanen_fla-6 ad_fla-7 Iohannem_fla-8 ut_fla-9 baptizaretur_fla-10 ab_fla-11 eo_fla-12 
+iohannes_nsu-3 autem_adv-3 prohibebat_roo-0 eum_obj-3 dicens_acl-1 
+ego_nsu-4 a_cas-3 te_obl-4 debeo_roo-0 baptizari_xco-4 et_dis-8 tu_fla-6 venis_fla-7 ad_fla-8 me_fla-9 
+respondens_acl-3 autem_adv-1 Iesus_nsu-4 dixit_roo-0 ei_iob-4 
+sine_roo-0 modo_adv-1 
+sic_adv-3 enim_fla-1 decet_fla-2 nos_fla-3 implere_fla-4 omnem_fla-5 iustitiam_fla-6 
+tunc_adv-2 dimisit_roo-0 eum_obj-2 
+baptizatus_nsu-4 autem_adv-1 confestim_adv-4 ascendit_roo-0 de_cas-6 aqua_obl-4 et_dis-9 ecce_fix-7 aperti_sen-4 sunt_aux-9 ei_obl-9 caeli_nsu-9 
+et_dis-2 vidit_roo-0 spiritum_obj-2 Dei_nmo-3 descendentem_acl-3 sicut_adv-7 columbam_obj-8 venientem_con-5 super_cas-10 se_obl-5 
+et_dis-3 ecce_dis-3 vox_roo-0 de_cas-5 caelis_obl-6 dicens_adv-3 
+hic_det-3 est_roo-0 Filius_nsu-2 meus_det-3 dilectus_acl-3 in_cas-7 quo_obl-9 mihi_obl-9 conplacui_acl-3 
+tunc_adv-3 Iesus_nsu-3 ductus_roo-0 est_aux-3 in_cas-6 desertum_obl-3 ab_cas-8 spiritu_obl-3 ut_adv-10 temptaretur_adv-3 a_adv-12 diabolo_obl-10 
+et_dis-3 cum_mar-3 ieiunasset_adv-10 quadraginta_amo-5 diebus_obl-3 et_cc-8 quadraginta_amo-8 noctibus_con-5 postea_adv-10 esuriit_roo-0 
+et_dis-4 accedens_acl-3 temptator_nsu-4 dixit_roo-0 ei_iob-4 
+si_dis-2 Filius_adv-5 dei_nmo-2 es_obj-5 dic_roo-0 ut_adv-7 lapides_adv-10 isti_dis-7 panes_nsu-10 fiant_sen-5 
+śui_nsu-3 respondens_acl-1 dixit_roo-0 
+scriptum_roo-0 est_nsu-1 
+non_adv-5 in_cas-3 pane_obl-5 solo_amo-3 vivet_roo-0 homo_nsu-5 sed_dis-9 in_cas-9 omni_acl-10 verbo_obl-9 quod_nsu-12 procedit_con-9 de_cas-14 ore_obl-12 Dei_nmo-14 
+tunc_adv-2 adsumit_roo-0 eum_obj-2 diabolus_nsu-2 in_cas-7 sanctam_amo-7 civitatem_obl-2 et_cc-9 statuit_con-2 eum_obj-9 supra_cas-12 pinnaculum_obj-9 templi_nmo-12 et_cc-15 dixit_con-2 ei_iob-15 
+si_dis-5 Filius_nsu-5 Dei_nmo-2 es_det-2 mitte_roo-0 te_obj-5 deorsum_adv-5 
+scriptum_roo-0 est_fla-1 enim_fla-2 quia_fla-3 angelis_fla-4 suis_fla-5 mandabit_fla-6 de_fla-7 te_fla-8 et_fla-9 in_fla-10 manibus_fla-11 tollent_fla-12 te_fla-13 ne_fla-14 forte_fla-15 offendas_fla-16 ad_fla-17 
+ait_roo-0 illi_obl-1 Iesus_nsu-1 
+rursum_adv-2 scriptum_roo-0 est_sen-2 
+non_adv-2 temptabis_roo-0 Dominum_obj-2 Deum_fla-3 tuum_fla-4 
+iterum_acl-3 adsumit_roo-0 eum_obj-2 diabolus_nsu-2 in_cas-6 montem_obl-7 excelsum_acl-3 valde_adv-7 
+et_adv-2 ostendit_roo-0 ei_nsu-2 omnia_amo-5 regna_obj-2 mundi_nmo-5 et_cc-6 gloriam_con-2 eorum_nmo-8 et_cc-11 dixit_con-2 illi_obl-11 
+haec_obj-4 tibi_iob-4 omnia_det-1 dabo_roo-0 si_dis-7 cadens_adv-7 adoraveris_sen-4 me_obj-7 
+tunc_adv-2 dicit_roo-0 ei_iob-2 Iesus_nsu-2 
+vade_roo-0 Satanas_adv-1 
+scriptum_roo-0 est_nsu-1 
+dominum_roo-0 Deum_fla-1 tuum_fla-2 adorabis_fla-3 et_fla-4 illi_fla-5 soli_fla-6 servies_fla-7 
+tunc_adv-2 reliquit_roo-0 eum_obj-2 diabolus_nsu-2 
+et_dis-4 ecce_fix-1 angeli_nsu-4 accesserunt_roo-0 et_adv-6 ministrabant_con-4 ei_iob-6 
+cum_dis-3 autem_adv-3 audisset_roo-0 quod_dis-6 Iohannes_fla-4 traditus_fla-5 esset_fla-6 secessit_par-3 in_cas-10 Galilaeam_obj-8 
+et_mar-5 relicta_acl-3 civitate_obj-5 Nazareth_nsu-5 venit_roo-0 et_mar-7 habitavit_con-5 in_cas-3 Capharnaum_obj-5 maritimam_acl-9 in_cas-12 finibus_obl-7 Zabulon_con-5 et_cc-15 nepthalim_con-5 
+ut_adv-2 adimpleretur_roo-0 quod_nsu-4 dictum_cco-2 est_aux-4 per_orp-8 Esaiam_det-8 prophetam_sen-2 
+terra_orp-2 Zabulon_roo-0 et_cc-5 terra_fla-3 nepthalim_fla-4 via_fla-5 maris_fla-6 trans_fla-7 Iordanen_fla-8 Galilaeae_fla-9 gentium_fla-10 populus_fla-11 qui_fla-12 sedebat_fla-13 in_fla-14 tenebris_fla-15 
+exinde_adv-2 coepit_roo-0 Iesus_nsu-2 praedicare_adv-2 et_mar-6 dicere_con-4 paenitentiam_obj-6 
+agite_roo-0 
+adpropinquavit_roo-0 enim_det-3 regnum_nsu-1 caelorum_nmo-3 
+ambulans_roo-0 autem_adv-1 iuxta_fla-2 mare_fla-3 Galilaeae_fla-4 vidit_fla-5 duos_fla-6 fratres_fla-7 Simonem_fla-8 qui_fla-9 vocatur_fla-10 Petrus_fla-11 et_fla-12 andream_fla-13 fratrem_fla-14 
