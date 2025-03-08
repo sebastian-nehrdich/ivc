@@ -2,7 +2,6 @@
 Simple experiment: Parse verious sections of the Vedic/Sanskrit corpus with a proper dependency parser, parse YD's IVC "Decipherments" with the same parser, parse random unrelated languages with the same parser. Plot error rate. Here we go: 
 ![Results](error_rates.png)
 
-YD's reconstructions produce as valid Sansk
 # Dependency Tree Structural Comparison Tool
 
 Some people claim to have deciphered the IVC script. In order to see if their proposed Sanskrit "translations" make any sense, this code does the following:
